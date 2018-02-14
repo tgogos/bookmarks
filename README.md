@@ -3,7 +3,7 @@
 
 ## Feb 2018:
 
- - [Understanding the Difference Between Virtualization and Containers](https://www.youtube.com/watch?v=rfjmeakbeH8) Openstack foundation video: `TOOTHPASTE-TUBE-THEORY`, `COLGATE`,`CGROUPS`, `LINUX-KERNEL-NAMESPACE`, `USER-NAMESPACE`, `NETWORK-NAMESPACE`, `IMAGE-NESTING-RELATIONSHIP`, `SECURITY`, `ATTACK-SURFACE`, `LINUX-SYSCALL-INTERFACE`
+ - [Understanding the Difference Between Virtualization and Containers](https://www.youtube.com/watch?v=rfjmeakbeH8) Openstack foundation video: `TOOTHPASTE-TUBE-THEORY`, `COLGATE`,`CGROUPS`, `LINUX-KERNEL-NAMESPACE`, `USER-NAMESPACE`, `NETWORK-NAMESPACE`, `IMAGE-NESTING-RELATIONSHIP`, `SECURITY`, `ATTACK-SURFACE`, `LINUX-SYSCALL-INTERFACE`, `BUMP-KEY`,`SELINUX`, `APPARMOR`, `SEC-COMP`,
  - [What Does OpenStack Bring to a Containers World?](https://www.youtube.com/watch?v=2QnHdncpypI) Openstack foundation video: describes things from 3 different perspectives `APP DEVELOPER`, `APP OPERATOR` and `INFRASTRUCTURE PROVIDER`, `LOCK-IN`
  - [What is a Container?](https://www.youtube.com/watch?v=EnJ7qX9fkcU) VMware Cloud-Native video: `SANDBOX-FOR-A-PROCESS`, `IMAGE-TREE`, `LAYERS`, `INHERITANCE`, `SECURITY`, `ABSTRACTION`, `IMAGE-CACHE`, `REGISTRY`
  - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=52s) video from InfoQ: `CACHE`, `CASCADING-FAILURE`, `CRITICAL-MICROSERVICES`, `CAP-THEOREM`, `DDoS`, `POLYGLOT`, `CONWAY'S-LAW`
