@@ -23,3 +23,7 @@ Articles/Videos with information about how things evolved / history. `CONTAINERS
  - [Getting Started with Juju](https://www.youtube.com/watch?v=9h5hgfnZcBQ)
  - [Why the fuss about serverless?](https://hackernoon.com/why-the-fuss-about-serverless-4370b1596da0)
  - [From bare metal to Serverless](https://loige.co/from-bare-metal-to-serverless/)
+
+## Jan 2018:
+
+ - [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) :+1::+1::+1:
