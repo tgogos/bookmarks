@@ -14,6 +14,7 @@ Links from articles, videos that I find interesting.
  - [What Does OpenStack Bring to a Containers World?](https://www.youtube.com/watch?v=2QnHdncpypI) Openstack foundation video: describes things from 3 different perspectives `APP DEVELOPER`, `APP OPERATOR` and `INFRASTRUCTURE PROVIDER`, `LOCK-IN`
  - [What is a Container?](https://www.youtube.com/watch?v=EnJ7qX9fkcU) VMware Cloud-Native video: `SANDBOX-FOR-A-PROCESS`, `IMAGE-TREE`, `LAYERS`, `INHERITANCE`, `SECURITY`, `ABSTRACTION`, `IMAGE-CACHE`, `REGISTRY`
  - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=52s) video from InfoQ: `CACHE`, `CASCADING-FAILURE`, `CRITICAL-MICROSERVICES`, `CAP-THEOREM`, `DDoS`, `POLYGLOT`, `CONWAY'S-LAW`
+ - [Dockerfile: ENTRYPOINT vs CMD](https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/) article by Century Link :+1::+1::+1:
  
 
 Articles/Videos with information about how things evolved / history. `CONTAINERS`, `ORCHESTRATION`, `INFRASTRUCTURE`, `BARE-METAL`, `OPENSTACK`, `CONFIGURATION-MANAGEMENT`, `SERVERLESS`:
