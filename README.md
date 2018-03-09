@@ -4,6 +4,8 @@ Links from articles, videos that I find interesting.
 
 ## Mar 2018:
 
+ - [Part 2: Container your enthusiasm: Docker doesn't want to replace the VM](http://searchservervirtualization.techtarget.com/feature/Container-your-enthusiasm-Docker-doesnt-want-to-replace-the-VM) by Nick Martin
+ - [Part 1: A brief history of Docker Containers' overnight success](http://searchservervirtualization.techtarget.com/feature/A-brief-history-of-Docker-Containers-overnight-success) by Nick Martin
  - [What does \` (backquote/backtick) mean in commands?](https://unix.stackexchange.com/questions/27428/what-does-backquote-backtick-mean-in-commands) Unix & Linux, stackexchange.com
  - [Levels of Abstraction](https://medium.com/@pawelwlodarski/levels-of-abstraction-872d7a25304f) medium.com article by Pawel Wlodarski
  - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) article by Joel Spolsky (stackoverflow co-founder)
