@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Mar 2018:
 
+ - [Command Line Curiosities - Making the Terminal Sing by Hamza Haiken](https://www.youtube.com/watch?time_continue=7&v=j5zA5Xi_ph8)
  - [Using Docker macvlan networks](http://blog.oddbit.com/2018/03/12/using-docker-macvlan-networks/) by Lars Kellogg-Stedman
  - [Part 2: Container your enthusiasm: Docker doesn't want to replace the VM](http://searchservervirtualization.techtarget.com/feature/Container-your-enthusiasm-Docker-doesnt-want-to-replace-the-VM) by Nick Martin
  - [Part 1: A brief history of Docker Containers' overnight success](http://searchservervirtualization.techtarget.com/feature/A-brief-history-of-Docker-Containers-overnight-success) by Nick Martin
