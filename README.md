@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Mar 2018:
 
+ - [The Real Reason Red Hat Is Acquiring CoreOS](https://www.forbes.com/sites/jasonbloomberg/2018/02/04/the-real-reason-red-hat-is-acquiring-coreos/#115e6de65c4d) `DOCKER`, `KUBERNETES`, `OPENSTACK`, `COMPLEXITY-CHALLENGE`
  - [Command Line Curiosities - Making the Terminal Sing by Hamza Haiken](https://www.youtube.com/watch?time_continue=7&v=j5zA5Xi_ph8)
  - [Using Docker macvlan networks](http://blog.oddbit.com/2018/03/12/using-docker-macvlan-networks/) by Lars Kellogg-Stedman
  - [Part 2: Container your enthusiasm: Docker doesn't want to replace the VM](http://searchservervirtualization.techtarget.com/feature/Container-your-enthusiasm-Docker-doesnt-want-to-replace-the-VM) by Nick Martin
