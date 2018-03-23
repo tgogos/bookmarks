@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Mar 2018:
 
+ - [How to Not Be the Engineer Running 3.5GB Docker Images](https://www.datawire.io/not-engineer-running-3-5gb-docker-images/) by DATAWIRE
  - [Understanding the Security Risks of Running Docker Containers: Don't Lose Your Sock(et)s](https://www.ctl.io/developers/blog/post/tutorial-understanding-the-security-risks-of-running-docker-containers) article about mounting `/var/run/docker.sock`
  - [The Real Reason Red Hat Is Acquiring CoreOS](https://www.forbes.com/sites/jasonbloomberg/2018/02/04/the-real-reason-red-hat-is-acquiring-coreos/#115e6de65c4d) `DOCKER`, `KUBERNETES`, `OPENSTACK`, `COMPLEXITY-CHALLENGE`
  - [Command Line Curiosities - Making the Terminal Sing by Hamza Haiken](https://www.youtube.com/watch?time_continue=7&v=j5zA5Xi_ph8)
