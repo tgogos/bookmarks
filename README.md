@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Mar 2018:
 
+ - [OpenFaaS: From Zero to Serverless in 60 Seconds Anywhere with Alex Ellis](https://www.youtube.com/watch?v=C3agSKv2s_w)
  - [visjs.org](http://visjs.org) visualization library, nice network-view examples
  - [5 Common Myths Around Moving to Docker](https://www.threatstack.com/blog/5-common-myths-around-moving-to-docker/)
  - [How to Not Be the Engineer Running 3.5GB Docker Images](https://www.datawire.io/not-engineer-running-3-5gb-docker-images/) by DATAWIRE
