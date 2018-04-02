@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 ## Apr 2018:
 
  - :movie_camera: [Heresy in the Church of Docker - Corey Quinn](https://www.youtube.com/watch?v=RB6MvSEaMKI) :+1::+1:
+ - :movie_camera: [LISA17 - The Danger of Celebrity in Tech - Corey Quinn](https://www.youtube.com/watch?v=bQU_29Cglyk)
 
 ## Mar 2018:
 
