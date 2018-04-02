@@ -2,6 +2,10 @@
 
 Links from articles, videos that I find interesting.
 
+## Apr 2018:
+
+ - :movie_camera: [Heresy in the Church of Docker - Corey Quinn](https://www.youtube.com/watch?v=RB6MvSEaMKI) :+1::+1:
+
 ## Mar 2018:
 
  - [Docker Events Explained](https://gliderlabs.com/devlog/2015/docker-events-explained/) :+1: by gliderlabs.com
