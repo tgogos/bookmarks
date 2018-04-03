@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
+ - :movie_camera: [How to build a Container Monitoring Solution- David Gildeh, CEO Co-Founder at Outlyer](https://www.youtube.com/watch?v=PJZn3M99MGE)
  - :movie_camera: [Heresy in the Church of Docker - Corey Quinn](https://www.youtube.com/watch?v=RB6MvSEaMKI) :+1::+1:
  - :movie_camera: [LISA17 - The Danger of Celebrity in Tech - Corey Quinn](https://www.youtube.com/watch?v=bQU_29Cglyk)
 
