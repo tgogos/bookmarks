@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
+ - [def programming: quotes about coding](http://www.defprogramming.com/)
  - [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
  - [How to Build a Delightful Loading Screen in 5 Minutes](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
  - :movie_camera: [How to build a Container Monitoring Solution- David Gildeh, CEO Co-Founder at Outlyer](https://www.youtube.com/watch?v=PJZn3M99MGE)
