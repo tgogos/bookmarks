@@ -4,7 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
- - :movie_camera: [Tupperware: Containerized Deployment at Facebook by Aravind Narayanan](https://www.youtube.com/watch?v=C_WuUgTqgOc)
+ - :movie_camera: [Tupperware: Containerized Deployment at Facebook by Aravind Narayanan](https://www.youtube.com/watch?v=C_WuUgTqgOc) :+1: `REACTIVE-FAILURE`, `BITTORRENT-BASED BINARY PACKAGE STORE`
  - [Docker vs. Kubernetes vs. Apache Mesos: Why What You Think You Know is Probably Wrong](https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/) :+1:
  - [def programming: quotes about coding](http://www.defprogramming.com/) :+1:
  - [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
