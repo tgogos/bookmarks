@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
+ - :movie_camera: [Cilium: Network and Application Security with BPF and XDP](https://www.youtube.com/watch?v=ilKlmTDdFgk) `BERKELEY PACKET FILTERS`, `IP-TABLES`, `SECURITY`, `MICROSERVICES`
  - :movie_camera: [Tupperware: Containerized Deployment at Facebook by Aravind Narayanan](https://www.youtube.com/watch?v=C_WuUgTqgOc) :+1: `REACTIVE-FAILURE`, `BITTORRENT-BASED BINARY PACKAGE STORE`, nice terminology about: statefull/stateless services, datacenter, cluster, rack...
  - [Docker vs. Kubernetes vs. Apache Mesos: Why What You Think You Know is Probably Wrong](https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/) :+1:
  - [def programming: quotes about coding](http://www.defprogramming.com/) :+1:
