@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
+ - :movie_camera: [Demystifying Container Networking](https://www.youtube.com/watch?v=eQ9Rn_rlYqw) video by Cisco DevNet channel
  - :movie_camera: [CNI/CNM - Introducing Container Networking - Christoph Andreas Torlinsky (Nuage Networks)](https://www.youtube.com/watch?v=QMNbgmxmB-M)
  - :movie_camera: [Faster, More Secure Application Modernization and Replatforming with PKS—Alex Ley](https://www.youtube.com/watch?v=9WG2N33ttM8)
  - :movie_camera: [Lightboard VMs vs. Containers: Advanced Deep Dive](https://www.youtube.com/watch?v=PoiXuVnSxfE) video by VMware Cloud-Native channel
