@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
+ - :movie_camera: [Faster, More Secure Application Modernization and Replatforming with PKS—Alex Ley](https://www.youtube.com/watch?v=9WG2N33ttM8)
  - :movie_camera: [Lightboard VMs vs. Containers: Advanced Deep Dive](https://www.youtube.com/watch?v=PoiXuVnSxfE) video by VMware Cloud-Native channel
  - [Bridging Realities: Orchestration and Programmable Infrastructure](https://thenewstack.io/bridging-realities-orchestration-programmable-infrastructure/)
  - :movie_camera: [Cilium: Network and Application Security with BPF and XDP](https://www.youtube.com/watch?v=ilKlmTDdFgk) `BERKELEY PACKET FILTERS`, `IP-TABLES`, `SECURITY`, `MICROSERVICES`
