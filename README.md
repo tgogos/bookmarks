@@ -4,6 +4,8 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
+ - [Cloud Native Landscape (github)](https://github.com/cncf/landscape) :+1::+1::+1: and [live](https://landscape.cncf.io/)
+ - :movie_camera: [Life of a Packet [I] - Michael Rubin, Google](https://www.youtube.com/watch?v=0Omvgd7Hg1I) video by CNCF [Cloud Native Computing Foundation] channel
  - :movie_camera: [Demystifying Container Networking](https://www.youtube.com/watch?v=eQ9Rn_rlYqw) video by Cisco DevNet channel
  - :movie_camera: [CNI/CNM - Introducing Container Networking - Christoph Andreas Torlinsky (Nuage Networks)](https://www.youtube.com/watch?v=QMNbgmxmB-M)
  - :movie_camera: [Faster, More Secure Application Modernization and Replatforming with PKS—Alex Ley](https://www.youtube.com/watch?v=9WG2N33ttM8)
