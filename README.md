@@ -2,6 +2,10 @@
 
 Links from articles, videos that I find interesting.
 
+## May 2018:
+
+ - :movie_camera: [Sprint Relies on Metaswitch Cloud Native Smarts](https://www.metaswitch.com/blog/sprint-relies-on-metaswitch-cloud-native-smarts) `5G`, `NFV`, `CLOUD-NATIVE`
+
 ## Apr 2018:
 
  - [PROGRAM LIKE YOU GIVE A DAMN](http://dojo4.com/blog/program-like-you-give-a-damn) :+1:
