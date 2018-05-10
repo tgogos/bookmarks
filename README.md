@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - [Kubernetes - A Practical Introduction for Application Developers](https://godaddy.github.io/2018/05/02/kubernetes-introduction-for-developers/)
  - :movie_camera: [Sprint Relies on Metaswitch Cloud Native Smarts](https://www.metaswitch.com/blog/sprint-relies-on-metaswitch-cloud-native-smarts) `5G`, `NFV`, `CLOUD-NATIVE`
 
 ## Apr 2018:
