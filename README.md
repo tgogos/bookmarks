@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - [Is k8s too complicated?](http://jmoiron.net/blog/is-k8s-too-complicated/) by Jason Moiron
  - [Gathering LXC and Docker containers metrics](https://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/) article by Jérôme Petazzoni
  - [Kubernetes - A Practical Introduction for Application Developers](https://godaddy.github.io/2018/05/02/kubernetes-introduction-for-developers/)
  - :movie_camera: [Sprint Relies on Metaswitch Cloud Native Smarts](https://www.metaswitch.com/blog/sprint-relies-on-metaswitch-cloud-native-smarts) `5G`, `NFV`, `CLOUD-NATIVE`
