@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - [euangoddard.github.io/clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) tool to copy from websites to markdown
  - [Understanding Shell Script's idiom: 2>&1](https://www.brianstorti.com/understanding-shell-script-idiom-redirect/) by Brian Storti @brianstorti
  - [programming sucks](http://www.stilldrinking.org/programming-sucks)
  - [Is k8s too complicated?](http://jmoiron.net/blog/is-k8s-too-complicated/) by Jason Moiron :+1:
