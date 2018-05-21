@@ -72,3 +72,16 @@ Articles/Videos with information about how things evolved / history. `CONTAINERS
 ## Jan 2018:
 
  - [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) :+1::+1::+1:
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+# 2017
+
+ - [Bringing Pokémon GO to life on Google Cloud](https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html)
