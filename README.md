@@ -4,6 +4,8 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/),  April 21, 2001 by Joel Spolsky	
+ - [It Came From Planet Architecture](https://blog.codinghorror.com/it-came-from-planet-architecture/), 27 Dec 2004 by Coding Horror
  - [Why your programmers just want to code](https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e) by Marcus Blankenship @justzeros
  - [euangoddard.github.io/clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) tool to copy from websites to markdown
  - [Understanding Shell Script's idiom: 2>&1](https://www.brianstorti.com/understanding-shell-script-idiom-redirect/) by Brian Storti @brianstorti
