@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - :movie_camera: [Kubernetes Colorado - April Meetup](https://www.youtube.com/watch?v=suNjNkhmWTs&feature=youtu.be&t=20s) interesting 3-part video. Check the 3rd part: The Myth of Cloud Agnosticism (Corey Quinn, Quinn Advisory Group)
  - [Quantity Always Trumps Quality](https://blog.codinghorror.com/quantity-always-trumps-quality/), 02 Aug 2008, By Coding Horror, story from "Art & Fear" about `CERAMICS`, `TEACHER`, `PERFECTION`
  - [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/),  April 21, 2001 by Joel Spolsky	
  - [It Came From Planet Architecture](https://blog.codinghorror.com/it-came-from-planet-architecture/), 27 Dec 2004 by Coding Horror
