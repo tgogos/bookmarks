@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - [The Tale of Two Container Networking Standards: CNM v. CNI](http://www.nuagenetworks.net/blog/container-networking-standards/) by Nuage Networks (Nokia)
  - [Choosing a CNI Network Provider for Kubernetes](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/) by Chris Love @chrislovecnm `CALICO`, `CANAL`, `FLANNEL`, `KOPEIO-VXLAN`, `KUBE-ROUTER`, `ROMANA`, `WEAVE NET`
  - [A Hacker’s Guide to Kubernetes Networking](https://thenewstack.io/hackers-guide-kubernetes-networking/) by Yaron Haviv, `VIRTUAL-BRIDGE`, `MULTIPLEXING`, `HARDWARE-SWITCHING`, `CNI`, `SR-IOV`, `MACVLAN`
  - :movie_camera:[GOTO 2017 • Designing for the Serverless Age](https://www.youtube.com/watch?v=w7X4gAQTk2E) • Gojko Adzic :+1::+1::+1:
