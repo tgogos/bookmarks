@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2018:
 
+ - [A Hacker’s Guide to Kubernetes Networking](https://thenewstack.io/hackers-guide-kubernetes-networking/) by Yaron Haviv, `VIRTUAL-BRIDGE`, `MULTIPLEXING`, `HARDWARE-SWITCHING`, `CNI`, `SR-IOV`, `MACVLAN`
  - :movie_camera:[GOTO 2017 • Designing for the Serverless Age](https://www.youtube.com/watch?v=w7X4gAQTk2E) • Gojko Adzic :+1::+1::+1:
  - [Serverless Architectures](https://martinfowler.com/articles/serverless.html) by Mike Roberts at martinfowler.com :+1::+1::+1:
  - :movie_camera: [Kubernetes Colorado - April Meetup](https://www.youtube.com/watch?v=suNjNkhmWTs&feature=youtu.be&t=20s) interesting 3-part video. Check the 3rd part: The Myth of Cloud Agnosticism (Corey Quinn, Quinn Advisory Group)
