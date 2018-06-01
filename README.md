@@ -2,6 +2,12 @@
 
 Links from articles, videos that I find interesting.
 
+## June 2018:
+
+ - [container.training/](http://container.training/) by Jérôme Petazzoni (@jpetazzo)
+
+
+
 ## May 2018:
 
  - [The Tale of Two Container Networking Standards: CNM v. CNI](http://www.nuagenetworks.net/blog/container-networking-standards/) by Nuage Networks (Nokia)
