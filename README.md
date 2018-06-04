@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - :movie_camera: [Kubernetes Networking for 'Stackers- Getting Packets from Pod to Pod](https://www.youtube.com/watch?v=d2gN8yKB0mA) video from the OpenStack Foundation
  - [Kubernetes Chaos Engineering: Lessons Learned — Part 1](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned) by Daniele Polencic
  - [container.training/](http://container.training/) by Jérôme Petazzoni (@jpetazzo)
 
@@ -14,7 +15,7 @@ Links from articles, videos that I find interesting.
  - [The Tale of Two Container Networking Standards: CNM v. CNI](http://www.nuagenetworks.net/blog/container-networking-standards/) by Nuage Networks (Nokia)
  - [Choosing a CNI Network Provider for Kubernetes](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/) by Chris Love @chrislovecnm `CALICO`, `CANAL`, `FLANNEL`, `KOPEIO-VXLAN`, `KUBE-ROUTER`, `ROMANA`, `WEAVE NET`
  - [A Hacker’s Guide to Kubernetes Networking](https://thenewstack.io/hackers-guide-kubernetes-networking/) by Yaron Haviv, `VIRTUAL-BRIDGE`, `MULTIPLEXING`, `HARDWARE-SWITCHING`, `CNI`, `SR-IOV`, `MACVLAN`
- - :movie_camera:[GOTO 2017 • Designing for the Serverless Age](https://www.youtube.com/watch?v=w7X4gAQTk2E) • Gojko Adzic :+1::+1::+1:
+ - :movie_camera: [GOTO 2017 • Designing for the Serverless Age](https://www.youtube.com/watch?v=w7X4gAQTk2E) • Gojko Adzic :+1::+1::+1:
  - [Serverless Architectures](https://martinfowler.com/articles/serverless.html) by Mike Roberts at martinfowler.com :+1::+1::+1:
  - :movie_camera: [Kubernetes Colorado - April Meetup](https://www.youtube.com/watch?v=suNjNkhmWTs&feature=youtu.be&t=20s) interesting 3-part video. Check the 3rd part: The Myth of Cloud Agnosticism (Corey Quinn, Quinn Advisory Group)
  - [Quantity Always Trumps Quality](https://blog.codinghorror.com/quantity-always-trumps-quality/), 02 Aug 2008, By Coding Horror, story from "Art & Fear" about `CERAMICS`, `TEACHER`, `PERFECTION`
