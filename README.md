@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [Kubernetes Chaos Engineering: Lessons Learned — Part 1](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned) by Daniele Polencic
  - [container.training/](http://container.training/) by Jérôme Petazzoni (@jpetazzo)
 
 
