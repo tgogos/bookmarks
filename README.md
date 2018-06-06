@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - :movie_camera: [Kubernetes on OpenStack: Digging into technical details](http://superuser.openstack.org/articles/kubernetes-deployment/) by superuser.openstack.org
  - :movie_camera: [Openstack on Kubernetes | will it blend?](https://kumul.us/joint-openstack-kubernetes-iaas/) by Kumulus Technologies. :+1:
  - :movie_camera: [Kubernetes Networking for 'Stackers- Getting Packets from Pod to Pod](https://www.youtube.com/watch?v=d2gN8yKB0mA) video from the OpenStack Foundation
  - [Kubernetes Chaos Engineering: Lessons Learned — Part 1](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned) by Daniele Polencic :+1:
