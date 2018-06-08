@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) article from developers.redhat.com
  - :movie_camera: [Kubernetes on OpenStack: Digging into technical details](http://superuser.openstack.org/articles/kubernetes-deployment/) by superuser.openstack.org
  - :movie_camera: [Openstack on Kubernetes | will it blend?](https://kumul.us/joint-openstack-kubernetes-iaas/) by Kumulus Technologies. :+1:
  - :movie_camera: [Kubernetes Networking for 'Stackers- Getting Packets from Pod to Pod](https://www.youtube.com/watch?v=d2gN8yKB0mA) video from the OpenStack Foundation
