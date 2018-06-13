@@ -4,6 +4,9 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [The Power of Hypervisor-Based Containers](https://thenewstack.io/hypervisors-container-era/)
+ - [Kubernetes on Bare Metal: When Low Network Latency is Key](https://www.ctl.io/developers/blog/post/kubernetes-bare-metal-servers) by Century Link
+ - [Leveraging Containers and OpenStack | A Comprehensive Review](https://www.openstack.org/containers/whitepaper)
  - [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) article from developers.redhat.com
  - :movie_camera: [Kubernetes on OpenStack: Digging into technical details](http://superuser.openstack.org/articles/kubernetes-deployment/) by superuser.openstack.org
  - :movie_camera: [Openstack on Kubernetes | will it blend?](https://kumul.us/joint-openstack-kubernetes-iaas/) by Kumulus Technologies. :+1:
