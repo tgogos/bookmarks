@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [Build and run applications in a dockerless kubernetes world](https://www.slideshare.net/JorgeMorales124/build-and-run-applications-in-a-dockerless-kubernetes-world) slides by Jorge Morales (history of container runtimes)
  - [The Power of Hypervisor-Based Containers](https://thenewstack.io/hypervisors-container-era/)
  - [Kubernetes on Bare Metal: When Low Network Latency is Key](https://www.ctl.io/developers/blog/post/kubernetes-bare-metal-servers) by Century Link
  - [Leveraging Containers and OpenStack | A Comprehensive Review](https://www.openstack.org/containers/whitepaper)
