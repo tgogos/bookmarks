@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [Moving from Docker to rkt](https://medium.com/@adriaandejonge/moving-from-docker-to-rkt-310dc9aec938) by Adriaan de Jonge `SYSTEMD`, `DOCKER DAEMON`, `DOCKER ENGINE`, `CONTAINERD`
  - :movie_camera: [HP Offers 'That Cloud Thing Everyone Is Talking About'](https://www.youtube.com/watch?time_continue=43&v=9ntPxdWAWq8) 😂
  - [Confusion In The Land Of The Serverless](https://samnewman.io/talks/confusion-land-serverless/) :movie_camera: and slides by Sam Newman
  - [Build and run applications in a dockerless kubernetes world](https://www.slideshare.net/JorgeMorales124/build-and-run-applications-in-a-dockerless-kubernetes-world) slides by Jorge Morales (history of container runtimes)
