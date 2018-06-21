@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - :movie_camera: [HP Offers 'That Cloud Thing Everyone Is Talking About'](https://www.youtube.com/watch?time_continue=43&v=9ntPxdWAWq8) 😂
  - [Confusion In The Land Of The Serverless](https://samnewman.io/talks/confusion-land-serverless/) :movie_camera: and slides by Sam Newman
  - [Build and run applications in a dockerless kubernetes world](https://www.slideshare.net/JorgeMorales124/build-and-run-applications-in-a-dockerless-kubernetes-world) slides by Jorge Morales (history of container runtimes)
  - [The Power of Hypervisor-Based Containers](https://thenewstack.io/hypervisors-container-era/)
