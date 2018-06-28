@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [rkt vs other projects](https://coreos.com/rkt/docs/latest/rkt-vs-other-projects.html) `RKT`, `DOCKER DAEMON`, `RUNC`, `CONTAINERD`, `SYSTEMD`, `LXC/LXD`
  - [Kubernetes Networking](https://cloudnativelabs.github.io/post/2017-04-18-kubernetes-networking/) by cloudnativelabs.com
  - [Systemd vs. Docker](https://lwn.net/Articles/676831/) `SYSTEMD`, `RUNC`, `LIBCONTAINER`
  - [Moving from Docker to rkt](https://medium.com/@adriaandejonge/moving-from-docker-to-rkt-310dc9aec938) by Adriaan de Jonge `SYSTEMD`, `DOCKER DAEMON`, `DOCKER ENGINE`, `CONTAINERD`, `RUNC`
