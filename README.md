@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2018:
 
+ - [Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon](https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon) slides by Jérôme Petazzoni
  - [rkt vs other projects](https://coreos.com/rkt/docs/latest/rkt-vs-other-projects.html) `RKT`, `DOCKER DAEMON`, `RUNC`, `CONTAINERD`, `SYSTEMD`, `LXC/LXD`
  - [Kubernetes Networking](https://cloudnativelabs.github.io/post/2017-04-18-kubernetes-networking/) by cloudnativelabs.com
  - [Systemd vs. Docker](https://lwn.net/Articles/676831/) `SYSTEMD`, `RUNC`, `LIBCONTAINER`
