@@ -2,6 +2,15 @@
 
 Links from articles, videos that I find interesting.
 
+
+
+## July 2018
+
+- [Why Simple is So Complex](https://itnext.io/why-simple-is-so-complex-362bc835b763) by Joe Crick
+
+
+
+
 ## June 2018:
 
  - [Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon](https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon) slides by Jérôme Petazzoni
