@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## July 2018
 
+- [The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect) by Bilgin Ibryam, InfoQ
 - [Why Simple is So Complex](https://itnext.io/why-simple-is-so-complex-362bc835b763) by Joe Crick
 
 
