@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## July 2018
 
+- [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
 - [The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect) by Bilgin Ibryam, InfoQ
 - [Why Simple is So Complex](https://itnext.io/why-simple-is-so-complex-362bc835b763) by Joe Crick
 
