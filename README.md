@@ -6,7 +6,8 @@ Links from articles, videos that I find interesting.
 
 ## July 2018
 
-- [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
+- [Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed) 👍
+- [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727) 👍 see also: [services](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82) & [ingress](https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078)
 - [The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect) by Bilgin Ibryam, InfoQ
 - [Why Simple is So Complex](https://itnext.io/why-simple-is-so-complex-362bc835b763) by Joe Crick
 
