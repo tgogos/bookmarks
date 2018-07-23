@@ -58,7 +58,7 @@ Links from articles, videos that I find interesting.
 
 ## Apr 2018:
 
- - [PROGRAM LIKE YOU GIVE A DAMN](http://dojo4.com/blog/program-like-you-give-a-damn) :+1:
+ - [PROGRAM LIKE YOU GIVE A DAMN](http://dojo4.com/blog/program-like-you-give-a-damn) :+1: and video [here](https://www.youtube.com/watch?v=sKNENzPpSrA)
  - [Cloud Native Landscape (github)](https://github.com/cncf/landscape) :+1::+1::+1: and [live](https://landscape.cncf.io/)
  - :movie_camera: [Life of a Packet [I] - Michael Rubin, Google](https://www.youtube.com/watch?v=0Omvgd7Hg1I) video by CNCF [Cloud Native Computing Foundation] channel
  - :movie_camera: [Demystifying Container Networking](https://www.youtube.com/watch?v=eQ9Rn_rlYqw) video by Cisco DevNet channel
