@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## July 2018
 
+- [Cluster Schedulers](https://medium.com/@copyconstruct/schedulers-kubernetes-and-nomad-b0f2e14a896) by Cindy Sridharan @copyconstruct 
 - :movie_camera: [There is No Such Thing as Container Networking - Kelsey Hightower, Google](https://www.youtube.com/watch?v=t98CX8Tberc) 👍👍👍
 - [Container Technology Wiki](https://www.aquasec.com/wiki/) by aquasec.com
 - [Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed) 👍
