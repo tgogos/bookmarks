@@ -2,6 +2,12 @@
 
 Links from articles, videos that I find interesting.
 
+## August 2018
+
+- [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) 👍👍👍 by Dan McKinley, slides [here](http://mcfunley.com/choose-boring-technology-slides)
+- 🎥 [The Challenges of Migrating 150+ Microservices to Kubernetes, Sarah Wells](https://www.youtube.com/watch?v=H06qrNmGqyE)
+
+
 
 
 ## July 2018
