@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## August 2018
 
+- 🎥 [Leadership Guide for the Reluctant Leader](https://www.youtube.com/watch?v=0EWiSJj0q_0) 👍👍👍 by David Neal, slides [here](https://speakerdeck.com/reverentgeek/jazzcon-2018-closing-keynote-leadership-for-the-reluctant-leader)
 - [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) 👍👍👍 by Dan McKinley, slides [here](http://mcfunley.com/choose-boring-technology-slides)
 - 🎥 [The Challenges of Migrating 150+ Microservices to Kubernetes, Sarah Wells](https://www.youtube.com/watch?v=H06qrNmGqyE)
 
