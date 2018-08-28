@@ -4,7 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## August 2018
 
-- 🎥 [Netdev 0x12 - Achieving super low latency for critical real world Internet applications - Workshop](https://www.youtube.com/watch?v=qFk3xArSIzU) *"...if you really want to achieve this the super slow application visible latency, we have to consider the whole ecosystem. That's the application, the network, the OS, the path. All of these have to work and this is something that I think we haven't really been very good at as an industry. How do you get these guys actually work together to achieve these goals?"*
+- 🎥 [Netdev 0x12 - Achieving super low latency for critical real world Internet applications - Workshop](https://www.youtube.com/watch?v=qFk3xArSIzU) *"...if you really want to achieve this the super slow application visible latency, we have to consider the whole ecosystem. That's the application, the network, the OS, the path. All of these have to work and this is something that I think we haven't really been very good at as an industry. How do you get these guys actually work together to achieve these goals?"*, video by Tom Herbert #netdevconf
 - 🎥 [Leadership Guide for the Reluctant Leader](https://www.youtube.com/watch?v=0EWiSJj0q_0) 👍👍👍 by David Neal, slides [here](https://speakerdeck.com/reverentgeek/jazzcon-2018-closing-keynote-leadership-for-the-reluctant-leader)
 - [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) 👍👍👍 by Dan McKinley, slides [here](http://mcfunley.com/choose-boring-technology-slides)
 - 🎥 [The Challenges of Migrating 150+ Microservices to Kubernetes, Sarah Wells](https://www.youtube.com/watch?v=H06qrNmGqyE)
