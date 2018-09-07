@@ -2,6 +2,12 @@
 
 Links from articles, videos that I find interesting.
 
+## September 2018
+
+- 🎥 [The ins and outs of networking in Google Container Engine and Kubernetes](https://www.youtube.com/watch?v=y2bhV81MfKQ) by Tim Hockin @thockin
+- 🎥 [Container clusters with Kubernetes](https://www.youtube.com/watch?v=BaHp8YXIsD0) by Tim Hockin @thockin
+
+
 ## August 2018
 
 - 🎥 [Netdev 0x12 - Achieving super low latency for critical real world Internet applications - Workshop](https://www.youtube.com/watch?v=qFk3xArSIzU) *"...if you really want to achieve this the super slow application visible latency, we have to consider the whole ecosystem. That's the application, the network, the OS, the path. All of these have to work and this is something that I think we haven't really been very good at as an industry. How do you get these guys actually work together to achieve these goals?"*, video by Tom Herbert #netdevconf
