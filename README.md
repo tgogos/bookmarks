@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 - 🎥 [The ins and outs of networking in Google Container Engine and Kubernetes](https://www.youtube.com/watch?v=y2bhV81MfKQ) by Tim Hockin @thockin
 - 🎥 [Container clusters with Kubernetes](https://www.youtube.com/watch?v=BaHp8YXIsD0) by Tim Hockin @thockin
+- [An Illustrated Guide To Kubernetes Networking](https://speakerdeck.com/thockin/illustrated-guide-to-kubernetes-networking) by Tim Hockin @thockin
 
 
 ## August 2018
