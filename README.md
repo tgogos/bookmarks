@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## September 2018
 
+- [Linux Container Internals](http://bit.ly/2ObqNrj ) 👍👍👍 presentation by Scott McCarty @fatherlinux
 - [An illustrated guide to Kubernetes Networking [Part 1]](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
 - [An illustrated guide to Kubernetes Networking [Part 2]](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-2-13fdc6c4e24c)
 - 🎥 [The ins and outs of networking in Google Container Engine and Kubernetes](https://www.youtube.com/watch?v=y2bhV81MfKQ) by Tim Hockin @thockin / slides: [here](https://speakerdeck.com/thockin/the-ins-and-outs-of-networking-in-google-container-engine)
