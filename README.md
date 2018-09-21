@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## September 2018
 
+- [Serverless is going to crush Kubernetes (but only in a theoretical world which doesn’t actually exist)](https://www.diversity.net.nz/serverless-is-going-to-crush-kubernetes-but-only-in-a-theoretical-world-which-doesnt-actually-exist/2018/05/10/) 
 - [What containers and unikernels can learn from Arduino and Raspberry Pi](https://opensource.com/business/16/5/containers-unikernels-learn-arduino-raspberry-pi)
 - [Linux Container Internals](http://bit.ly/2ObqNrj ) 👍👍👍 presentation by Scott McCarty @fatherlinux
 - [An illustrated guide to Kubernetes Networking [Part 1]](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
