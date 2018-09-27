@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## September 2018
 
+- [The Comprehensive Guide to Serverless Architecture](https://www.simform.com/serverless-architecture-guide/) by Jignesh Solanki
 - [Serverless is going to crush Kubernetes (but only in a theoretical world which doesn’t actually exist)](https://www.diversity.net.nz/serverless-is-going-to-crush-kubernetes-but-only-in-a-theoretical-world-which-doesnt-actually-exist/2018/05/10/) 
 - [What containers and unikernels can learn from Arduino and Raspberry Pi](https://opensource.com/business/16/5/containers-unikernels-learn-arduino-raspberry-pi)
 - [Linux Container Internals](http://bit.ly/2ObqNrj ) 👍👍👍 presentation by Scott McCarty @fatherlinux
