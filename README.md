@@ -2,6 +2,10 @@
 
 Links from articles, videos that I find interesting.
 
+## October 2018
+
+- [Microservices are everywhere what can CSPs learn from IT?](https://www.vanillaplus.com/2017/11/15/32641-webinar-review-microservices-everywhere-can-csps-learn/)
+
 ## September 2018
 
 - [The Comprehensive Guide to Serverless Architecture](https://www.simform.com/serverless-architecture-guide/) by Jignesh Solanki
