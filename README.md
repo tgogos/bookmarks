@@ -4,7 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## October 2018
 
-- [Microservices are everywhere what can CSPs learn from IT?](https://www.vanillaplus.com/2017/11/15/32641-webinar-review-microservices-everywhere-can-csps-learn/)
+- [Microservices are everywhere what can CSPs learn from IT?](https://www.vanillaplus.com/2017/11/15/32641-webinar-review-microservices-everywhere-can-csps-learn/) ` Conway’s Law `
 
 ## September 2018
 
