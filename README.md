@@ -4,7 +4,8 @@ Links from articles, videos that I find interesting.
 
 ## October 2018
 
-- [Do you need a Service Mesh?](https://www.youtube.com/watch?v=lyue42wd7a8) - Matt Turner `APP-NFs` , `ENVOY` , `SIDECAR-PROXY` , `GRAFANA` , `PROMETHEUS` , `OBSERVABILITY` , `ACCESS-CONTROL-LISTS`, `FAULT-INJECTION`
+- 🎥 [Three Models in the NGINX Microservices Reference Architecture](https://www.youtube.com/watch?v=i1WShUzejjE) `SERVICE-DISCOVERY`, `LOAD-BALANCING`, `FAST-ENCRYPTION`, `PROXY-MODEL`, `ROUTER-MESH`, `FABRIC-MODEL`
+- 🎥 [Do you need a Service Mesh?](https://www.youtube.com/watch?v=lyue42wd7a8) - Matt Turner `APP-NFs` , `ENVOY` , `SIDECAR-PROXY` , `GRAFANA` , `PROMETHEUS` , `OBSERVABILITY` , `ACCESS-CONTROL-LISTS`, `FAULT-INJECTION`
 - [Microservices are everywhere what can CSPs learn from IT?](https://www.vanillaplus.com/2017/11/15/32641-webinar-review-microservices-everywhere-can-csps-learn/) ` Conway’s Law `
 
 ## September 2018
