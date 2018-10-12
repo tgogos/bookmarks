@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## October 2018
 
+- [Non-Fluff Software Defined Networking, Network Function Virtualization and IoT](https://www.slideshare.net/markcastellani/nonfluff-software-defined-networking-network-function-virtualization-and-iot-58051153) slides by Mark Ryan Castellani
 - 🎥 [Conway's Law and Microservices. A perfect match, or not? with Andy Hedges & Adrian Spender](https://www.youtube.com/watch?v=lZloZISzdb0) `Conway's Law`, *"...DevOps for us is very clearly a mindset and a culture we don't apply the anti pattern of DevOps being a person or a team..."*
 - 🎥 [Three Models in the NGINX Microservices Reference Architecture](https://www.youtube.com/watch?v=i1WShUzejjE) 3 Networking problems: `SERVICE-DISCOVERY`, `RESOURCE-UTILIZATION` (or `LOAD-BALANCING`), `FAST-ENCRYPTION` | 3 Network Architectures: `PROXY-MODEL`, `ROUTER-MESH`, `FABRIC-MODEL`
 - 🎥 [Do you need a Service Mesh?](https://www.youtube.com/watch?v=lyue42wd7a8) - Matt Turner `APP-NFs` , `ENVOY` , `SIDECAR-PROXY` , `GRAFANA` , `PROMETHEUS` , `OBSERVABILITY` , `ACCESS-CONTROL-LISTS`, `FAULT-INJECTION`
