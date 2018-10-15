@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## October 2018
 
+- [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - 🎥 [MEF17 - Yaakov Stein, RAD: QoS for Rich Communications Services](https://www.youtube.com/watch?v=xuXd0hOq3Ig) `PERFORMANCE-MANAGEMENT`, `QoS`, `QoE`, `NFV`, `AI`, `PACKET-LOSS`, `DELAY`, `LATENCY`, `TCP-PROXY`, `KPIs`, `SLAs`
 - [Non-Fluff Software Defined Networking, Network Function Virtualization and IoT](https://www.slideshare.net/markcastellani/nonfluff-software-defined-networking-network-function-virtualization-and-iot-58051153) slides by Mark Ryan Castellani
 - 🎥 [Conway's Law and Microservices. A perfect match, or not? with Andy Hedges & Adrian Spender](https://www.youtube.com/watch?v=lZloZISzdb0) `Conway's Law`, *"...DevOps for us is very clearly a mindset and a culture we don't apply the anti pattern of DevOps being a person or a team..."*
