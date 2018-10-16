@@ -4,7 +4,8 @@ Links from articles, videos that I find interesting.
 
 ## October 2018
 
-- [High Performance Browser Networking](https://hpbn.co/) by © Ilya Grigorik (web performance engineer at Google)
+- [Dropbox traffic infrastructure: Edge network](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/) `PoP`, `BGP anycast`, `TRAFFIC-STEERING`, `GeoDNS`, `GeoIP`, 
+- [High Performance Browser Networking](https://hpbn.co/) 👍👍 by © Ilya Grigorik (web performance engineer at Google)
 - [A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/)
 - 🎥 [MEF17 - Yaakov Stein, RAD: QoS for Rich Communications Services](https://www.youtube.com/watch?v=xuXd0hOq3Ig) `PERFORMANCE-MANAGEMENT`, `QoS`, `QoE`, `NFV`, `AI`, `PACKET-LOSS`, `DELAY`, `LATENCY`, `TCP-PROXY`, `KPIs`, `SLAs`
 - [Non-Fluff Software Defined Networking, Network Function Virtualization and IoT](https://www.slideshare.net/markcastellani/nonfluff-software-defined-networking-network-function-virtualization-and-iot-58051153) slides by Mark Ryan Castellani
