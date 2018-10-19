@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## October 2018
 
+- 🎥 [Fast, Simple User-Space Network Functions with Snabb](https://ripe77.ripe.net/archives/video/2312/) by Andy Wingo, [github.com/snabbco/snabb](https://github.com/snabbco/snabb)
 - [How video streaming works on the web: An introduction](https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1)
 - [Dropbox traffic infrastructure: Edge network](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/) `PoP`, `BGP anycast`, `TRAFFIC-STEERING`, `GeoDNS`, `GeoIP`, 
 - [High Performance Browser Networking](https://hpbn.co/) 👍👍 by © Ilya Grigorik (web performance engineer at Google)
