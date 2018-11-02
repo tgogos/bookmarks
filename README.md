@@ -2,6 +2,11 @@
 
 Links from articles, videos that I find interesting.
 
+## November 2018
+
+- [docker-k8s-lab](https://docker-k8s-lab.readthedocs.io/en/latest/index.html) 👍👍👍
+
+
 ## October 2018
 
 - [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
