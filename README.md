@@ -4,7 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2018
 
-- [docker-k8s-lab](https://docker-k8s-lab.readthedocs.io/en/latest/index.html) 👍👍👍
+- [docker-k8s-lab](https://docker-k8s-lab.readthedocs.io/en/latest/index.html) 👍👍👍 `IPROUTE2`, `NETNS`, `VETH`
 
 
 ## October 2018
