@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2018
 
+- [The Road to QUIC](https://blog.cloudflare.com/the-road-to-quic/) by Alessandro Ghedini, Cloudflare
 - [The Operating System in 2018](https://qconsf.com/system/files/presentation-slides/qconsf_the_operating_system_in_2018.pdf) slides by Justin Cormack
 - [docker-k8s-lab](https://docker-k8s-lab.readthedocs.io/en/latest/index.html) 👍👍👍 `IPROUTE2`, `NETNS`, `VETH`
 
