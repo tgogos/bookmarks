@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2018
 
+- [Podman: A more secure way to run containers](https://opensource.com/article/18/10/podman-more-secure-way-run-containers) by Daniel J Walsh @rhatdan
 - [Understanding MPEG-2, MPEG-4, H.264, AVCHD and H.265](https://wolfcrow.com/blog/understanding-mpeg-2-mpeg-4-h-264-avchd-and-h-265/)
 - [Unikernels: Rise of the Virtual Library Operating System](https://queue.acm.org/detail.cfm?id=2566628) by Anil Madhavapeddy & David J. Scott
 - [The Road to QUIC](https://blog.cloudflare.com/the-road-to-quic/) by Alessandro Ghedini, Cloudflare
