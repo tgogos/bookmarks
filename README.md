@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2018
 
+- [Containers, Security, and Echo Chambers](https://blog.jessfraz.com/post/containers-security-and-echo-chambers/) @jessfraz
 - [Getting Acquainted with gVisor](https://rancher.com/blog/2018/2018-05-24-what-is-gvisor/) `GVISOR`, `KATACONTAINERS`, `SANDBOXING`
 - [Podman: A more secure way to run containers](https://opensource.com/article/18/10/podman-more-secure-way-run-containers) by Daniel J Walsh @rhatdan
 - [Understanding MPEG-2, MPEG-4, H.264, AVCHD and H.265](https://wolfcrow.com/blog/understanding-mpeg-2-mpeg-4-h-264-avchd-and-h-265/)
