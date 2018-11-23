@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2018
 
+- [NCC Group Whitepaper: Understanding and Hardening Linux Containers](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-1-1.pdf) (pdf)
 - [Measuring the Horizontal Attack Profile of Nabla Containers](https://blog.hansenpartnership.com/measuring-the-horizontal-attack-profile-of-nabla-containers/) `SECURITY`, `ATTACK-SURFACE`, `STRACE`, `NABLA-CONTAINERS`, `DOCKER`
 - [Containers, Security, and Echo Chambers](https://blog.jessfraz.com/post/containers-security-and-echo-chambers/) @jessfraz
 - [Getting Acquainted with gVisor](https://rancher.com/blog/2018/2018-05-24-what-is-gvisor/) `GVISOR`, `KATACONTAINERS`, `SANDBOXING`
