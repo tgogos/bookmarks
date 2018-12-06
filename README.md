@@ -2,6 +2,10 @@
 
 Links from articles, videos that I find interesting.
 
+## December 2018
+
+- [Events, the DNA of Kubernetes](https://www.mgasch.com/post/k8sevents/) by Michael Gasch @embano1, see also the relative [tweet](https://twitter.com/embano1/status/1067537816324845569)
+
 ## November 2018
 
 - [Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016](https://www.youtube.com/watch?v=HlAXp0-M6SY) 👍
