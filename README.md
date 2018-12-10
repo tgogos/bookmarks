@@ -9,7 +9,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2018
 
-- [Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016](https://www.youtube.com/watch?v=HlAXp0-M6SY) 👍
+- 🎥 [Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016](https://www.youtube.com/watch?v=HlAXp0-M6SY) 👍
 - [A comparison of container runtimes](https://www.reddit.com/r/kubernetes/comments/9y89wu/a_comparison_of_container_runtimes/)
 - [NCC Group Whitepaper: Understanding and Hardening Linux Containers](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/april/ncc_group_understanding_hardening_linux_containers-1-1.pdf) (pdf)
 - [Measuring the Horizontal Attack Profile of Nabla Containers](https://blog.hansenpartnership.com/measuring-the-horizontal-attack-profile-of-nabla-containers/) `SECURITY`, `ATTACK-SURFACE`, `STRACE`, `NABLA-CONTAINERS`, `DOCKER`
