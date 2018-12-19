@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## December 2018
 
+- 🎥 [Kubernetes the very hard way at Datadog](https://www.youtube.com/watch?v=2dsCwp_j0yQ) 👍 `CONTAINERD`, `NATIVE-POD-ROUTING`, `IP-TABLES`, `CARGO-CULTING`, `PSTREE`
 - 🎥 ["How NOT to Measure Latency"](https://www.youtube.com/watch?v=lJ8ydIuPFeU) by Gil Tene [@giltene](https://twitter.com/giltene)
 - 🎥 [The Container Revolution: Reflections After the First Decade](https://www.youtube.com/watch?v=xXWaECk9XqM) 👍 by Bryan Cantrill `CONTAINERS`, `UNIX`, `HISTORY`, `HYPERVISOR`, `ABSTRACTIONS` [interesting part](https://www.youtube.com/watch?v=xXWaECk9XqM&t=2404)
 - [Events, the DNA of Kubernetes](https://www.mgasch.com/post/k8sevents/) by Michael Gasch @embano1, see also the relative [tweet](https://twitter.com/embano1/status/1067537816324845569)
