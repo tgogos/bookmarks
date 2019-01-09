@@ -2,6 +2,17 @@
 
 Links from articles, videos that I find interesting.
 
+## January 2019
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 2018
+
 ## December 2018
 
 - 🎥 [Kubernetes the very hard way at Datadog](https://www.youtube.com/watch?v=2dsCwp_j0yQ) 👍 `CONTAINERD`, `NATIVE-POD-ROUTING`, `IP-TABLES`, `CARGO-CULTING`, `PSTREE`
