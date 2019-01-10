@@ -4,7 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## January 2019
 
-- 🎥 [Container Performance Analysis](https://www.youtube.com/watch?v=bK9A5ODIgac) Brendan Gregg at #dockercon17 `CGROUP-THROTTLES`, `PERFORMANCE-ENGINEER`, `PERF`, `TRACE`
+- 🎥 [Container Performance Analysis](https://www.youtube.com/watch?v=bK9A5ODIgac) Brendan Gregg at #dockercon17 `CGROUP-THROTTLES`, `PERFORMANCE-ENGINEER`, `PERF`, `TRACE`, `HIGH-RESOLUTION-METRICS`, `CPU-CAP`, `CPU-SHARE`
 
 <br>
 <br>
