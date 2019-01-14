@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## January 2019
 
+- [Linux Network namespaces](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/) by Diego Pino [@diepg](https://twitter.com/diepg)
 - 🎥 [Container Performance Analysis](https://www.youtube.com/watch?v=bK9A5ODIgac) Brendan Gregg at #dockercon17 `CGROUP-THROTTLES`, `PERFORMANCE-ENGINEER`, `PERF`, `TRACE`, `HIGH-RESOLUTION-METRICS`, `CPU-CAP`, `CPU-SHARE`, `BCC`, `eBPF`
 
 <br>
