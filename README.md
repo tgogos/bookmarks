@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## January 2019
 
+- 🎥 [How to Make Linux Microservice-Aware with Cilium and eBPF](https://www.infoq.com/presentations/linux-cilium-ebpf) by Thomas Graf, `BPF PROGRAM`, `HISTORY`, `ABSTRACTIONS`, `NETWORK STACK`, `KERNEL`, `UNIKERNEL`, `USERSPACE-OS`, `SERVICE-MESH`, `CONTAINER`
 - 🎥 [Lessons From Defending The Indefensible](https://www.youtube.com/watch?v=pCVTEx1ouyk) `DoS`, `ACK FLOODS`, `SYN FLOODS`, `BPF`, `INTERRUPT STORMS`, `PARTIAL KERNEL-BYPASS`, `SFLOW`, `BGP NULL-ROUTE`, `CONNTRACK`
 - [Why we use the Linux kernel's TCP stack](https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/) `KERNEL-BYPASS`, `USERSPACE NETWORKING`
 - [Linux Network namespaces](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/) by Diego Pino [@diepg](https://twitter.com/diepg)
