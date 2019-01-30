@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## January 2019
 
+- [Cargo Cult Software Engineering](https://stevemcconnell.com/articles/cargo-cult-software-engineering/) by Steve McConnell
 - [Amazon Firecracker: Isolating Serverless Containers and Functions](https://blog.aquasec.com/amazon-firecracker-serverless-container-security) Aquasec article
 - 🎥 [How to Make Linux Microservice-Aware with Cilium and eBPF](https://www.infoq.com/presentations/linux-cilium-ebpf) by Thomas Graf, `BPF PROGRAM`, `HISTORY`, `ABSTRACTIONS`, `NETWORK STACK`, `KERNEL`, `UNIKERNEL`, `USERSPACE-OS`, `SERVICE-MESH`, `CONTAINER`
 - 🎥 [Lessons From Defending The Indefensible](https://www.youtube.com/watch?v=pCVTEx1ouyk) `DoS`, `ACK FLOODS`, `SYN FLOODS`, `BPF`, `INTERRUPT STORMS`, `PARTIAL KERNEL-BYPASS`, `SFLOW`, `BGP NULL-ROUTE`, `CONNTRACK`
