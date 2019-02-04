@@ -2,6 +2,10 @@
 
 Links from articles, videos that I find interesting.
 
+## February 2019
+
+- [The future of Kubernetes is Virtual Machines](https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/) by Paul Czarkowski
+
 ## January 2019
 
 - [Cargo Cult Software Engineering](https://stevemcconnell.com/articles/cargo-cult-software-engineering/) by Steve McConnell
