@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## February 2019
 
+- [Serverless SDN - Network Engineering Analysis of Appswitch](https://networkop.co.uk/post/2018-05-29-appswitch-sdn/) 👍
 - [The future of Kubernetes is Virtual Machines](https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/) by Paul Czarkowski
 
 ## January 2019
