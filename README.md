@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## February 2019
 
+- [container.training/intro-selfpaced.yml.html#1](https://container.training/intro-selfpaced.yml.html#1) slides by Jérôme Petazzoni
 - 🎥 [What We Got Wrong: Lessons from the Birth of Microservices](https://www.youtube.com/watch?v=-pDyNsB9Zr0)
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190) `VAGUENESS`, `SCOPE-CREEPINESS`, `SEAGULL-MANAGEMENT`, `TECHNICAL-DEBT`
 - [Serverless SDN - Network Engineering Analysis of Appswitch](https://networkop.co.uk/post/2018-05-29-appswitch-sdn/) 👍
