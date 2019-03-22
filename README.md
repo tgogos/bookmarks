@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## March 2019
 
+- [Simplicity, Please - A Manifesto for Software Development](https://www.infoq.com/articles/simplicity-manifesto-development) by Paul Merlyn
 - [Microservices are not the destination](https://content.pivotal.io/intersect/microservices-are-not-your-destination) by Kenny Bastani `SURVIVAL-MODE`, `TALENT`
 
 
