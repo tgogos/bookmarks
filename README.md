@@ -3,6 +3,10 @@
 Links from articles, videos that I find interesting.
 
 
+## April 2019
+
+- [How Generative Music Works (A Perspective)](https://teropa.info/loop) 👍
+
 ## March 2019
 
 - [Containers vs. Unikernels: An Apples-to-Oranges Comparison](https://containerjournal.com/2019/03/28/containers-vs-unikernels-an-apples-to-oranges-comparison/)
