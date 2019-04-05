@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## April 2019
 
+- [You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) 👍👍👍 by Ozan Onay
 - [How Generative Music Works (A Perspective)](https://teropa.info/loop) 👍
 
 ## March 2019
