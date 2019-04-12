@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## April 2019
 
+- [Gracefully Stopping Docker Containers](https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/)
 - [You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) 👍👍👍 by Ozan Onay
 - [How Generative Music Works (A Perspective)](https://teropa.info/loop) 👍
 
