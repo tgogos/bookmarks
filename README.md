@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2019
 
+ - [Is KAFKA... a database?](https://www.youtube.com/watch?time_continue=3938&v=TlJpS-R3-GQ) `KAFKA`, `ACID`, `DISTRIBUTED-TRANSACTIONS`, `2-PHASE-COMMIT`
  - [CNF Testbed](https://docs.google.com/presentation/d/1nsPINvxQwZZR_7E4mAzr-50eFCBhbCHsmik6DI_yFA0/edit#slide=id.g5036f143e9_3_413) `VNF`, `CNF`, `memif`, Openstack VS Kubernetes
  - [(Anti-)Application Video for YC120 2019](https://www.youtube.com/watch?v=px9OjW7GB0Q) by Bryan Cantrill 👍 *"I hope that people will remember me as someone who actually defended integrity in engineering, integrity in business"*
 
