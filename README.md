@@ -5,7 +5,9 @@ Links from articles, videos that I find interesting.
 
 ## May 2019
 
- - [Getting a CPU utilization breakdown in Prometheus's query language, PromQL](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusCPUStats?showcomments)
+ - [Understanding Machine CPU usage](https://www.robustperception.io/understanding-machine-cpu-usage) `PROMETHEUS 🔥`
+ - [Keep It Simple scrape_interval-id](https://www.robustperception.io/keep-it-simple-scrape_interval-id) `PROMETHEUS 🔥`
+ - [Getting a CPU utilization breakdown in Prometheus's query language, PromQL](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusCPUStats?showcomments) `PROMETHEUS 🔥`
  - 🎥 [Monitoring, the Prometheus Way](https://www.youtube.com/watch?v=PDxcEzu62jk)
  - [RFC 6349: Framework for TCP Throughput Testing](https://tools.ietf.org/html/rfc6349)
  - 🎥 [Is KAFKA... a database?](https://www.youtube.com/watch?time_continue=3938&v=TlJpS-R3-GQ) `KAFKA`, `TRANSACTION-PROCESSING`,  `ACID`, `DISTRIBUTED-TRANSACTIONS`, `2-PHASE-COMMIT`
