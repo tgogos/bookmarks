@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## May 2019
 
+ - [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) by Cindy Sridharan 👍👍👍
  - [Logs and Metrics](https://medium.com/@copyconstruct/logs-and-metrics-6d34d3026e38) by Cindy Sridharan, `LOGS`, `METRICS`, `OBSERVABILITY`, `ELK`, `PROMETHEUS`, `WHITE-BOX-MONITORING`, `BLACK-BOX-MONITORING`, `ALERTS`, `SRE`, `REQUEST-RATE`, `ERROR-RATE`, `KAFKA`, `STREAM-PROCESSING`
  - [Understanding Machine CPU usage](https://www.robustperception.io/understanding-machine-cpu-usage) `PROMETHEUS 🔥`
  - [Keep It Simple scrape_interval-id](https://www.robustperception.io/keep-it-simple-scrape_interval-id) `PROMETHEUS 🔥`
