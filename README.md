@@ -3,6 +3,10 @@
 Links from articles, videos that I find interesting.
 
 
+## June 2019
+
+ - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
 ## May 2019
 
  - [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) by Cindy Sridharan 👍👍👍
