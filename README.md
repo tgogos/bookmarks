@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2019
 
+ - [Sysdig and CoreOS Meetup Jul '15: Best Practices For Container Environments](https://www.youtube.com/watch?v=gMpldbcMHuI) 👍
  - [Building Linux Rootfs From Scratch](http://www.ethernetresearch.com/geekzone/building-linux-rootfs-from-scratch/)
  - [Why Journald?](https://www.loggly.com/blog/why-journald/)
  - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
