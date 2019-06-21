@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## June 2019
 
+ - [Making Containers More Isolated: An Overview of Sandboxed Container Technologies](https://unit42.paloaltonetworks.com/making-containers-more-isolated-an-overview-of-sandboxed-container-technologies/) `UNIKERNEL`, `IBM-NABLA`, `gVISOR`, `FIRECRACKER`, `OPENSTACK KATA`
  - [Sysdig and CoreOS Meetup Jul '15: Best Practices For Container Environments](https://www.youtube.com/watch?v=gMpldbcMHuI) 👍
  - [Building Linux Rootfs From Scratch](http://www.ethernetresearch.com/geekzone/building-linux-rootfs-from-scratch/)
  - [Why Journald?](https://www.loggly.com/blog/why-journald/)
