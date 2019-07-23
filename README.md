@@ -3,6 +3,10 @@
 Links from articles, videos that I find interesting.
 
 
+## July 2019
+
+ - [How did we get to service meshes?](https://medium.com/ingeniouslysimple/how-did-we-get-to-service-meshes-682e1e3d6327) `MESSAGE-QUEUE`, `API-GATEWAY`, `SIDECAR`
+
 ## June 2019
 
  - [Making Containers More Isolated: An Overview of Sandboxed Container Technologies](https://unit42.paloaltonetworks.com/making-containers-more-isolated-an-overview-of-sandboxed-container-technologies/) `UNIKERNEL`, `IBM-NABLA`, `gVISOR`, `FIRECRACKER`, `OPENSTACK KATA`
