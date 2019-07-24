@@ -5,12 +5,14 @@ Links from articles, videos that I find interesting.
 
 ## July 2019
 
+ - [https://www.slideshare.net/ConfluentInc/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus-rimas-silkaitis](The Enterprise Service Bus is Dead! Long live the Enterprise Service Bus) slides by Rimas Silkaitis `KAFKA`
+ - 🎥 [What is a service mesh](https://www.youtube.com/watch?v=vh1YtWjfcyk) HashiCorp
  - [How did we get to service meshes?](https://medium.com/ingeniouslysimple/how-did-we-get-to-service-meshes-682e1e3d6327) `MESSAGE-QUEUE`, `API-GATEWAY`, `SIDECAR`
 
 ## June 2019
 
  - [Making Containers More Isolated: An Overview of Sandboxed Container Technologies](https://unit42.paloaltonetworks.com/making-containers-more-isolated-an-overview-of-sandboxed-container-technologies/) `UNIKERNEL`, `IBM-NABLA`, `gVISOR`, `FIRECRACKER`, `OPENSTACK KATA`
- - [Sysdig and CoreOS Meetup Jul '15: Best Practices For Container Environments](https://www.youtube.com/watch?v=gMpldbcMHuI) 👍 `BUILD`, `MINIMAL-LINUX-DISTROS`, `ROOTFS`
+ - 🎥 [Sysdig and CoreOS Meetup Jul '15: Best Practices For Container Environments](https://www.youtube.com/watch?v=gMpldbcMHuI) 👍 `BUILD`, `MINIMAL-LINUX-DISTROS`, `ROOTFS`
  - [Building Linux Rootfs From Scratch](http://www.ethernetresearch.com/geekzone/building-linux-rootfs-from-scratch/)
  - [Why Journald?](https://www.loggly.com/blog/why-journald/)
  - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
