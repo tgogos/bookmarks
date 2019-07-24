@@ -5,7 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## July 2019
 
- - [https://www.slideshare.net/ConfluentInc/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus-rimas-silkaitis](The Enterprise Service Bus is Dead! Long live the Enterprise Service Bus) slides by Rimas Silkaitis `KAFKA`
+ - [The Enterprise Service Bus is Dead! Long live the Enterprise Service Bus](https://www.slideshare.net/ConfluentInc/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus-rimas-silkaitis) slides by Rimas Silkaitis `KAFKA`
  - 🎥 [What is a service mesh](https://www.youtube.com/watch?v=vh1YtWjfcyk) HashiCorp
  - [How did we get to service meshes?](https://medium.com/ingeniouslysimple/how-did-we-get-to-service-meshes-682e1e3d6327) `MESSAGE-QUEUE`, `API-GATEWAY`, `SIDECAR`
 
