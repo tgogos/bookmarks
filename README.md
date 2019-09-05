@@ -3,6 +3,10 @@
 Links from articles, videos that I find interesting.
 
 
+## September 2019
+
+ - [~jpetazzo/Containers, microservices, and service meshes](http://jpetazzo.github.io/2019/05/17/containers-microservices-service-meshes/)
+
 ## July 2019
 
  - [The Enterprise Service Bus is Dead! Long live the Enterprise Service Bus](https://www.slideshare.net/ConfluentInc/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus-rimas-silkaitis) slides by Rimas Silkaitis `KAFKA`
