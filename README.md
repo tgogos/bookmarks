@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## September 2019
 
+ - 🎥 [Are We Really Cloud-Native?](https://www.infoq.com/presentations/cloud-native-intro/) 👍👍👍 `MICROSERVICES`, `DEVOPS`, `TRADE-OFFS`, `KUBERNETES`, `AGILE`, `PET-VS-CATTLE`
  - [~jpetazzo/Containers, microservices, and service meshes](http://jpetazzo.github.io/2019/05/17/containers-microservices-service-meshes/)
 
 ## July 2019
