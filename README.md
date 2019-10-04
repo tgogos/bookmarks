@@ -3,6 +3,10 @@
 Links from articles, videos that I find interesting.
 
 
+## October 2019
+
+- 🎥 [What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM&t=1316s) coding demo by Liz Rice at DockerCon 2017 `NAMESPACES`, `CGROUPS`, `FORK-BOMB`
+
 ## September 2019
 
  - 🎥 [Are We Really Cloud-Native?](https://www.infoq.com/presentations/cloud-native-intro/) 👍👍👍 `MICROSERVICES`, `DEVOPS`, `TRADE-OFFS`, `KUBERNETES`, `AGILE`, `PET-VS-CATTLE`
