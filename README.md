@@ -5,6 +5,7 @@ Links from articles, videos that I find interesting.
 
 ## October 2019
 
+- 🎥 [The Not-So-Straightforward Road from Microservices to Serverless](https://www.infoq.com/presentations/microservices-to-serverless/) `PINBALL-MACHINE-ARCHITECTURE`
 - 🎥 [What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM&t=1316s) coding demo by Liz Rice at DockerCon 2017 `NAMESPACES`, `CGROUPS`, `FORK-BOMB`
 
 ## September 2019
