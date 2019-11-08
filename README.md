@@ -2,6 +2,10 @@
 
 Links from articles, videos that I find interesting.
 
+## November 2019
+
+ - 🎥 [Linux Bridges, IP Tables, and CNI Plug-Ins - A Container Networking Deepdive](https://www.youtube.com/watch?v=z-ITjDQT7DU)
+
 
 ## October 2019
 
