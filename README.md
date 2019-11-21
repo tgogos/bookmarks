@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## November 2019
 
+ - [The microservices cargo cult](https://www.stavros.io/posts/microservices-cargo-cult/) by Stavros Korokithakis
  - [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445) by Alberto Gimeno
  - 🎥 [Linux Bridges, IP Tables, and CNI Plug-Ins - A Container Networking Deepdive](https://www.youtube.com/watch?v=z-ITjDQT7DU)
 
