@@ -2,6 +2,11 @@
 
 Links from articles, videos that I find interesting.
 
+## December 2019
+
+ - 🎥 [Why are TV Cameras still HUGE and expensive ?](https://www.youtube.com/watch?v=RkTaMyatsTo) `PARFOCAL LENS`
+ 
+ 
 ## November 2019
 
  - [The microservices cargo cult](https://www.stavros.io/posts/microservices-cargo-cult/) by Stavros Korokithakis
