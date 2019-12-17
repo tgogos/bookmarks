@@ -4,6 +4,7 @@ Links from articles, videos that I find interesting.
 
 ## December 2019
 
+ - 🎥 [We've Made Quite A Mesh - Tim Hockin](https://www.youtube.com/watch?v=lUF88T16YqY)
  - [Introduction to Container Networking](https://rancher.com/learning-paths/introduction-to-container-networking/) rancher.com `NAMESPACES`, `VETH`, `BRIDGE`
  - 🎥 [Why are TV Cameras still HUGE and expensive ?](https://www.youtube.com/watch?v=RkTaMyatsTo) `PARFOCAL LENS`
  
