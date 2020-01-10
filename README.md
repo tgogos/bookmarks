@@ -2,6 +2,19 @@
 
 Links from articles, videos that I find interesting.
 
+# 2020
+
+## January 2020
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 2019
+
 ## December 2019
 
  - 🎥 [We've Made Quite A Mesh - Tim Hockin](https://www.youtube.com/watch?v=lUF88T16YqY)
