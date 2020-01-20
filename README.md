@@ -6,6 +6,8 @@ Links from articles, videos that I find interesting.
 
 ## January 2020
 
+ - [Why Kubernetes on Virtual Machines?](https://neonmirrors.net/post/2020-01/why-k8s-on-vms/)
+
 <br>
 <br>
 <br>
