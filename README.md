@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## January 2020
 
+ - [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://www.infoq.com/articles/cloud-native-architecture-adoption-part1/) 👍👍👍 InfoQ article
  - [Why Kubernetes on Virtual Machines?](https://neonmirrors.net/post/2020-01/why-k8s-on-vms/)
 
 <br>
