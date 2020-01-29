@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## January 2020
 
+ - [How to attract great people](https://blog.hedges.net/2014/07/17/how-to-attract-great-people/) by Andy Hedges
  - [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://www.infoq.com/articles/cloud-native-architecture-adoption-part1/) 👍👍👍 InfoQ article
  - [Why Kubernetes on Virtual Machines?](https://neonmirrors.net/post/2020-01/why-k8s-on-vms/)
 
