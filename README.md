@@ -4,6 +4,11 @@ Links from articles, videos that I find interesting.
 
 # 2020
 
+## February 2020
+
+ - [Computer Architecture - Fall 2019](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule) by Onur Mutlu (Professor at ETH Zurich and Carnegie Mellon University)
+
+
 ## January 2020
 
  - [How to attract great people](https://blog.hedges.net/2014/07/17/how-to-attract-great-people/) by Andy Hedges
