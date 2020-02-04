@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## February 2020
 
+ - [Metaswitch CTO sets the record straight on what "cloud native" really is](https://www.youtube.com/watch?v=abAWczMCSdA) by Martin Taylor
  - [Computer Architecture - Fall 2019](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule) by Onur Mutlu (Professor at ETH Zurich and Carnegie Mellon University)
 
 
