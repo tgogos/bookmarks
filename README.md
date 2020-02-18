@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting.
 
 ## February 2020
 
+ - [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
  - [Observability — A 3-Year Retrospective - The New Stack](https://thenewstack.io/observability-a-3-year-retrospective/) by Charity Majors
  - [Metaswitch CTO sets the record straight on what "cloud native" really is](https://www.youtube.com/watch?v=abAWczMCSdA) by Martin Taylor
  - [Computer Architecture - Fall 2019](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule) by Onur Mutlu (Professor at ETH Zurich and Carnegie Mellon University)
