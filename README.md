@@ -1,6 +1,6 @@
 # bookmarks
 
-Links from articles, videos that I find interesting.
+Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos)
 
 # 2020
 
