@@ -4,6 +4,12 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2020
 
+## March 2020
+
+ - [Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html) by Jerome Petazzoni
+ - [Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html) by Jerome Petazzoni
+ 
+
 ## February 2020
 
  - [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/) by InfoQ
