@@ -4,6 +4,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2020
 
+## April 2020
+
+- [STOP!! You don’t need Microservices.](https://medium.com/swlh/stop-you-dont-need-microservices-dc732d70b3e0) `ARCHITECTURE`, `LATENCY`, `TRADE-OFFS`, `KISS PRINCIPLE`, `COMPLEXITY`
+
 ## March 2020
 
  - [Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html) by Jerome Petazzoni
