@@ -4,6 +4,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2020
 
+## May 2020
+
+ - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) 👍
+
 ## April 2020
 
 - [Container Networking: The Mystery of the Missing RSTs](https://blog.box.com/container-networking-mystery-missing-rsts)
