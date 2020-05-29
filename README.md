@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## May 2020
 
+ - [Monolithic to Microservices + Docker = SDLC on Steroids!](https://www.youtube.com/watch?v=lle5Tk0kXgA) #DockerCon2020, `POLYGLOT STACK`, `DECOMPOSITION PATTERNS`, `DATA SHARDING`, `API BOUNDARIES`, `COMPLEXITY MANAGEMENT WITH CONSISTENT ADHERENCE TO STANDARDS`, `CONTRACT-DRIVEN DEVELOPMENT`, `SERVICE BOOTSTRAPING & SECRETS MANAGEMENT`
  - [Can you expose your microservices with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway) by [learnk8s.io](https://learnk8s.io) `INGRESS`, `API-GATEWAY`, `NGINX`, `KONG`, `AMBASSADOR`, `GLOO`
  - [Prometheus Node Exporter and TLS](https://inuits.eu/blog/prometheus-tls/) `PROMETHEUS`, `TLS`
  - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) 👍
