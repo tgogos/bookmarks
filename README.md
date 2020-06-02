@@ -4,6 +4,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2020
 
+## June 2020
+
+ - [Kubernetes research](https://learnk8s.io/research) Research documents on node instance types, managed services, ingress controllers, CNIs, etc.
+
 ## May 2020
 
  - [Monolithic to Microservices + Docker = SDLC on Steroids!](https://www.youtube.com/watch?v=lle5Tk0kXgA) #DockerCon2020, `POLYGLOT STACK`, `DECOMPOSITION PATTERNS`, `DATA SHARDING`, `API BOUNDARIES`, `COMPLEXITY MANAGEMENT WITH CONSISTENT ADHERENCE TO STANDARDS`, `CONTRACT-DRIVEN DEVELOPMENT`, `SERVICE BOOTSTRAPING & SECRETS MANAGEMENT`
