@@ -6,6 +6,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## June 2020
 
+ - [guide.bash.academy](https://guide.bash.academy/) The Bash Guide - A quality-driven guide through the shell's many features.
  - [Adoption of Cloud Native Architecture, Part 2: Stabilization Gaps and Anti-Patterns](https://www.infoq.com/articles/cloud-native-architecture-adoption-part2/) 👍👍👍 InfoQ article
  - [Kubernetes research](https://learnk8s.io/research) Research documents on node instance types, managed services, ingress controllers, CNIs, etc.
 
