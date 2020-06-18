@@ -1,3 +1,5 @@
+[![markdown-link-check](https://github.com/tgogos/bookmarks/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/tgogos/bookmarks/actions)
+
 # bookmarks
 
 Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos) & [tefter.io/tgogos/lists](https://tefter.io/tgogos/lists)
