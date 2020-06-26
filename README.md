@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## June 2020
 
+ - [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/) by Steve Smith at InfoQ, `AUTOMATED DEPLOYMENT`, `CONTINUOUS DELIVERY`, `CONTINUOUS INTEGRATION`
  - [Automating safe, hands-off deployments](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/) by Clare Liguori `CI/CD`, `PIPELINES`
  - [A Comparison of Linux Container Images](http://crunchtools.com/comparison-linux-container-images/) 👍
  - [guide.bash.academy](https://guide.bash.academy/) The Bash Guide - A quality-driven guide through the shell's many features.
