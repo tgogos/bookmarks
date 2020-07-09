@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2020
 
+## July 2020
+
+ - [When NOT to use Kubernetes](https://medium.com/@KarlKFI/when-not-to-use-kubernetes-ea3b91da3f1f) by Karl Isenberg `PaaS`, `CaaS`, `IaaS`, `TRADE-OFFS`, `WORKLOADS`, `CLOUD`
+
 ## June 2020
 
  - [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/) by Steve Smith at InfoQ, `AUTOMATED DEPLOYMENT`, `CONTINUOUS DELIVERY`, `CONTINUOUS INTEGRATION`
