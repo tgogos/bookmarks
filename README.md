@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## July 2020
 
+ - [Code-wise, cloud-foolish: avoiding bad technology choices](https://forrestbrazeal.com/2020/01/05/code-wise-cloud-foolish-avoiding-bad-technology-choices/) by Forrest Brazeal 👍👍👍
  - [The Identity Management Method](https://www.joelonsoftware.com/2006/08/10/the-identity-management-method/) by Joel Spolsky
  - [The Econ 101 Management Method](https://www.joelonsoftware.com/2006/08/09/the-econ-101-management-method/) by Joel Spolsky
  - [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) by Thierry Carrez
