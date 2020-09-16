@@ -80,7 +80,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## October 2019
 
-- [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)
+- [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/) Red Hat Developers blog 👍
 - 🎥 [The Fabric of DevOps: Using Neo4j to Manage Site Infrastructure — Ashley Sun, LendingClub](https://www.youtube.com/watch?v=xMsx5pS_VNo) *Be pragmatic, not dogmatic...*, *DevOps as a culture, not a team name...* (The tool shown in the live demo must be this: https://github.com/lyft/cartography)
 - 🎥 [The Not-So-Straightforward Road from Microservices to Serverless](https://www.infoq.com/presentations/microservices-to-serverless/) `PINBALL-MACHINE-ARCHITECTURE`
 - 🎥 [What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM&t=1316s) coding demo by Liz Rice at DockerCon 2017 `NAMESPACES`, `CGROUPS`, `FORK-BOMB`
