@@ -8,6 +8,8 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## September 2020
 
+ - [Docker Networking for Container-Based Services > Exposed ports](https://www.ipspace.net/kb/DockerSvc/10-Exposed.html) by [Ivan Pepelnjak](https://twitter.com/ioshints) 👍👍👍
+ - [Docker Networking for Container-Based Services > Published ports](https://www.ipspace.net/kb/DockerSvc/20-Published.html)by [Ivan Pepelnjak](https://twitter.com/ioshints) 👍👍👍
  - [Git (GitHub) commit at past date](https://stackoverflow.com/questions/23609991/git-github-commit-at-past-date) straightforward answer by VonC that can be used to push your old projects to Github using the date you were developing them (even you weren't using `git` at the time 😁)
 
 ## July 2020
