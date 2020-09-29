@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## September 2020
 
+ - [What Is Immutable Infrastructure?](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure) by DigitalOcean `Pets vs Cattle`, `Snowflakes vs Phoenixes`
  - [Securing Your Droplet](https://www.youtube.com/watch?v=L8e_eAm4fFM&feature=emb_title) 👍 by DigitalOcean and Mason Egger (@masonegger) about `SSH KEYS`, `FIREWALLS`, `VIRTUAL PRIVATE CLOUDS`, `SERVICE AUDITING`, `UNATTENDED UPDATES`, `BACKING UP`, `SSL/TLS ENCRYPTION`, `ISOLATED EXECUTION ENVIRONMENTS`
  - [Docker Networking for Container-Based Services > Exposed ports](https://www.ipspace.net/kb/DockerSvc/10-Exposed.html) by [Ivan Pepelnjak](https://twitter.com/ioshints) 👍👍👍
  - [Docker Networking for Container-Based Services > Published ports](https://www.ipspace.net/kb/DockerSvc/20-Published.html)by [Ivan Pepelnjak](https://twitter.com/ioshints) 👍👍👍
