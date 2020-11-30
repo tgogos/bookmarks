@@ -6,6 +6,11 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2020
 
+## November 2020
+
+- [Mechanical vs Electronic Shutter: Ask David Bergman](https://www.youtube.com/watch?v=O75-gzJ2-Ig) `SHUTTER-SHOCK`, `ROLLING-SHUTTER`, `BANDING`*  
+\* *BANDING: where a lot of lights actually pulse with different color temperatures*
+
 ## September 2020
 
  - [What Is Immutable Infrastructure?](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure) by DigitalOcean `Pets vs Cattle`, `Snowflakes vs Phoenixes`
