@@ -310,7 +310,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## Mar 2018:
 
- - Docker Events Explained ~~https://gliderlabs.com/devlog/2015/docker-events-explained/~~ :+1: by gliderlabs.com 
+ - Docker Events Explained (broken link: ~~gliderlabs.com/devlog/2015/docker-events-explained/~~) :+1: by gliderlabs.com 
  - :movie_camera: [OpenFaaS: From Zero to Serverless in 60 Seconds Anywhere with Alex Ellis](https://www.youtube.com/watch?v=C3agSKv2s_w)
  - [visjs.org](http://visjs.org) visualization library, nice network-view examples
  - [5 Common Myths Around Moving to Docker](https://www.threatstack.com/blog/5-common-myths-around-moving-to-docker/)
