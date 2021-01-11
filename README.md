@@ -4,6 +4,12 @@
 
 Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos) & [tefter.io/tgogos/lists](https://tefter.io/tgogos/lists)
 
+# 2021
+
+## January 2021
+
+- [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work) 3 different approaches `RATE()`, `iRATE()`
+
 # 2020
 
 ## November 2020
