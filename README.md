@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## January 2021
 
+- [Better Dialogue Audio: Compression and Normalization](https://www.youtube.com/watch?v=9kal7soRvT0) for use with Adobe Audition `NORMALIZATION`, `COMPRESSION`, `VOICE`
 - [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work) 3 different approaches `RATE()`, `iRATE()`
 
 # 2020
