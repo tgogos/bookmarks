@@ -8,20 +8,20 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## January 2021
 
-- [Better Dialogue Audio: Compression and Normalization](https://www.youtube.com/watch?v=9kal7soRvT0) for use with Adobe Audition `NORMALIZATION`, `COMPRESSION`, `VOICE`
+- 🎥 [Better Dialogue Audio: Compression and Normalization](https://www.youtube.com/watch?v=9kal7soRvT0) for use with Adobe Audition `NORMALIZATION`, `COMPRESSION`, `VOICE`
 - [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work) 3 different approaches `RATE()`, `iRATE()`
 
 # 2020
 
 ## November 2020
 
-- [Mechanical vs Electronic Shutter: Ask David Bergman](https://www.youtube.com/watch?v=O75-gzJ2-Ig) `SHUTTER-SHOCK`, `ROLLING-SHUTTER`, `BANDING`*  
+- 🎥 [Mechanical vs Electronic Shutter: Ask David Bergman](https://www.youtube.com/watch?v=O75-gzJ2-Ig) `SHUTTER-SHOCK`, `ROLLING-SHUTTER`, `BANDING`*  
 \* *BANDING: where a lot of lights actually pulse with different color temperatures*
 
 ## September 2020
 
  - [What Is Immutable Infrastructure?](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure) by DigitalOcean `Pets vs Cattle`, `Snowflakes vs Phoenixes`
- - [Securing Your Droplet](https://www.youtube.com/watch?v=L8e_eAm4fFM&feature=emb_title) 👍 by DigitalOcean and Mason Egger (@masonegger) about `SSH KEYS`, `FIREWALLS`, `VIRTUAL PRIVATE CLOUDS`, `SERVICE AUDITING`, `UNATTENDED UPDATES`, `BACKING UP`, `SSL/TLS ENCRYPTION`, `ISOLATED EXECUTION ENVIRONMENTS`
+ - 🎥 [Securing Your Droplet](https://www.youtube.com/watch?v=L8e_eAm4fFM&feature=emb_title) 👍 by DigitalOcean and Mason Egger (@masonegger) about `SSH KEYS`, `FIREWALLS`, `VIRTUAL PRIVATE CLOUDS`, `SERVICE AUDITING`, `UNATTENDED UPDATES`, `BACKING UP`, `SSL/TLS ENCRYPTION`, `ISOLATED EXECUTION ENVIRONMENTS`
  - [Docker Networking for Container-Based Services > Exposed ports](https://www.ipspace.net/kb/DockerSvc/10-Exposed.html) by [Ivan Pepelnjak](https://twitter.com/ioshints) 👍👍👍
  - [Docker Networking for Container-Based Services > Published ports](https://www.ipspace.net/kb/DockerSvc/20-Published.html)by [Ivan Pepelnjak](https://twitter.com/ioshints) 👍👍👍
  - [Git (GitHub) commit at past date](https://stackoverflow.com/questions/23609991/git-github-commit-at-past-date) straightforward answer by VonC that can be used to push your old projects to Github using the date you were developing them (even you weren't using `git` at the time 😁)
@@ -31,7 +31,7 @@ Links from articles, videos that I find interesting. Some of them are also added
  - [Code-wise, cloud-foolish: avoiding bad technology choices](https://forrestbrazeal.com/2020/01/05/code-wise-cloud-foolish-avoiding-bad-technology-choices/) by Forrest Brazeal 👍👍👍
  - [The Identity Management Method](https://www.joelonsoftware.com/2006/08/10/the-identity-management-method/) by Joel Spolsky
  - [The Econ 101 Management Method](https://www.joelonsoftware.com/2006/08/09/the-econ-101-management-method/) by Joel Spolsky
- - [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) by Thierry Carrez
+ - 🎥 [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) by Thierry Carrez
  - [When NOT to use Kubernetes](https://medium.com/@KarlKFI/when-not-to-use-kubernetes-ea3b91da3f1f) by Karl Isenberg `PaaS`, `CaaS`, `IaaS`, `TRADE-OFFS`, `WORKLOADS`, `CLOUD`
 
 ## June 2020
@@ -45,7 +45,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## May 2020
 
- - [Monolithic to Microservices + Docker = SDLC on Steroids!](https://www.youtube.com/watch?v=lle5Tk0kXgA) #DockerCon2020, `POLYGLOT STACK`, `DECOMPOSITION PATTERNS`, `DATA SHARDING`, `API BOUNDARIES`, `COMPLEXITY MANAGEMENT WITH CONSISTENT ADHERENCE TO STANDARDS`, `CONTRACT-DRIVEN DEVELOPMENT`, `SERVICE BOOTSTRAPING & SECRETS MANAGEMENT`
+ - 🎥 [Monolithic to Microservices + Docker = SDLC on Steroids!](https://www.youtube.com/watch?v=lle5Tk0kXgA) #DockerCon2020, `POLYGLOT STACK`, `DECOMPOSITION PATTERNS`, `DATA SHARDING`, `API BOUNDARIES`, `COMPLEXITY MANAGEMENT WITH CONSISTENT ADHERENCE TO STANDARDS`, `CONTRACT-DRIVEN DEVELOPMENT`, `SERVICE BOOTSTRAPING & SECRETS MANAGEMENT`
  - [Can you expose your microservices with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway) by [learnk8s.io](https://learnk8s.io) `INGRESS`, `API-GATEWAY`, `NGINX`, `KONG`, `AMBASSADOR`, `GLOO`
  - [Prometheus Node Exporter and TLS](https://inuits.eu/blog/prometheus-tls/) `PROMETHEUS`, `TLS`
  - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) 👍
@@ -65,7 +65,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
  - [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/) by InfoQ
  - [Observability — A 3-Year Retrospective - The New Stack](https://thenewstack.io/observability-a-3-year-retrospective/) by Charity Majors
- - [Metaswitch CTO sets the record straight on what "cloud native" really is](https://www.youtube.com/watch?v=abAWczMCSdA) by Martin Taylor
+ - 🎥 [Metaswitch CTO sets the record straight on what "cloud native" really is](https://www.youtube.com/watch?v=abAWczMCSdA) by Martin Taylor
  - [Computer Architecture - Fall 2019](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule) by Onur Mutlu (Professor at ETH Zurich and Carnegie Mellon University)
 
 
