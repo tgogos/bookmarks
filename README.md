@@ -6,6 +6,11 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2021
 
+## March 2021
+
+ - [Splitting the ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split) `PING`, `LATENCY`, `ICMP`, `SPING`, `SPLIT-SPING`
+
+
 ## January 2021
 
 - 🎥 [Better Dialogue Audio: Compression and Normalization](https://www.youtube.com/watch?v=9kal7soRvT0) for use with Adobe Audition `NORMALIZATION`, `COMPRESSION`, `VOICE`
