@@ -151,7 +151,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## March 2019
 
-- [Containers vs. Unikernels: An Apples-to-Oranges Comparison](https://containerjournal.com/2019/03/28/containers-vs-unikernels-an-apples-to-oranges-comparison/)
+- [Containers vs. Unikernels: An Apples-to-Oranges Comparison](https://containerjournal.com/topics/container-ecosystems/containers-vs-unikernels-an-apples-to-oranges-comparison/)
 - [‘AWS vs K8s’ is the new ‘Windows vs Linux’](https://zwischenzugs.com/2019/03/25/aws-vs-k8s-is-the-new-windows-vs-linux/) by Ian Miell
 - [Simplicity, Please - A Manifesto for Software Development](https://www.infoq.com/articles/simplicity-manifesto-development) by Paul Merlyn
 - [Microservices are not the destination](https://content.pivotal.io/intersect/microservices-are-not-your-destination) by Kenny Bastani `SURVIVAL-MODE`, `TALENT`
