@@ -8,7 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## April 2021
 
- - [REST and microservices – breaking down the monolith step by asynchronous step](https://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/) `REST`, `API`, `CALLBACK`
+ - [REST and microservices – breaking down the monolith step by asynchronous step](https://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/) `REST`, `API`, `CALLBACK`, `CAP THEOREM`, `FLP THEOREM`
 
 ## March 2021
 
