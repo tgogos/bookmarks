@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2021
 
+## April 2021
+
+ - [REST and microservices – breaking down the monolith step by asynchronous step](https://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/) `REST`, `API`, `CALLBACK`
+
 ## March 2021
 
  - [Splitting the ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split) `PING`, `LATENCY`, `ICMP`, `SPING`, `SPLIT-SPING`
