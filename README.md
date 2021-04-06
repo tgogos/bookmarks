@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## April 2021
 
+ - 🎥 [How Netflix Scales Its API with GraphQL Federation](https://www.youtube.com/watch?v=QrEOvHdH2Cg) `API-AGGREGATION`, `API-GATEWAY`, `GRAPHQL`, `FEDERATION`, `SCALING`, `MONOLITH`
  - [REST and microservices – breaking down the monolith step by asynchronous step](https://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/) `REST`, `API`, `CALLBACK`, `CAP THEOREM`, `FLP THEOREM`
 
 ## March 2021
