@@ -42,7 +42,7 @@ Links from articles, videos that I find interesting. Some of them are also added
  - [The Identity Management Method](https://www.joelonsoftware.com/2006/08/10/the-identity-management-method/) by Joel Spolsky
  - [The Econ 101 Management Method](https://www.joelonsoftware.com/2006/08/09/the-econ-101-management-method/) by Joel Spolsky
  - 🎥 [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) by Thierry Carrez
- - [When NOT to use Kubernetes](https://medium.com/@KarlKFI/when-not-to-use-kubernetes-ea3b91da3f1f) by Karl Isenberg `PaaS`, `CaaS`, `IaaS`, `TRADE-OFFS`, `WORKLOADS`, `CLOUD`
+ - [When NOT to use Kubernetes](https://medium.com/@KarlKFI/when-not-to-use-kubernetes-ea3b91da3f1f) by Karl Isenberg `FaaS`, `PaaS`, `CaaS`, `IaaS`, `TRADE-OFFS`, `WORKLOADS`, `CLOUD` 👍👍👍
 
 ## June 2020
 
