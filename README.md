@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2021
 
+## May 2021
+
+ - [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) `PERF`, `FLAMEGRAPHS`, `IPTABLES`, `BENCHMARK`
+
 ## April 2021
 
  - 🎥 [How Netflix Scales Its API with GraphQL Federation](https://www.youtube.com/watch?v=QrEOvHdH2Cg) `API-AGGREGATION`, `API-GATEWAY`, `GRAPHQL`, `FEDERATION`, `SCALING`, `MONOLITH`, `API-OWNERSHIP`, `CEPARATION OF CONCERNS`
