@@ -4,6 +4,25 @@
 
 Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos) & [tefter.io/tgogos/lists](https://tefter.io/tgogos/lists)
 
+
+# 2022
+
+## January 2022
+
+ - [Elastic License 2.0 and the Evolution of Open Source Licensing](https://www.coss.community/cossc/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3) `AGPL`, `SSPL`, `STRIP-MINING PROBLEM`
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 # 2021
 
 ## May 2021
