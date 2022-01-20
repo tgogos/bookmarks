@@ -9,7 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## January 2022
 
- - [Elastic License 2.0 and the Evolution of Open Source Licensing](https://www.coss.community/cossc/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3) `AGPL`, `SSPL`, `STRIP-MINING PROBLEM`
+ - [Elastic License 2.0 and the Evolution of Open Source Licensing](https://www.coss.community/cossc/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3) `AGPL`, `SSPL`, `STRIP-MINING PROBLEM`, `SOURCE-AVAILABLE`
 
 
 
