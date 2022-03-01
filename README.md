@@ -7,6 +7,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2022
 
+## March 2022
+
+ - [**wgtwo** - Security Whitepaper](https://www.wgtwo.com/docs/technology/security-whitepaper/)
+
 ## January 2022
 
  - [The real cause of large DDoS - IP Spoofing](https://blog.cloudflare.com/the-root-cause-of-large-ddos-ip-spoofing/) `DDoS`, `Hilbert Curves`
