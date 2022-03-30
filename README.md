@@ -9,6 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## March 2022
 
+ - [demeyere.design/text-calendar/](https://demeyere.design/text-calendar/) (plain text page [here](https://demeyere.design/text-calendar/calendar.php))
  - [**wgtwo** - Security Whitepaper](https://www.wgtwo.com/docs/technology/security-whitepaper/)
 
 ## January 2022
