@@ -7,6 +7,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2022
 
+## April 2022
+
+ - [Writing new system software](https://borud.no/notes/2021/system-software/) `MECHANICAL-SYMPATHY`, `PERFORMANCE`, `MEMORY`, `ALGORITHMS`, `ARCHITECTURAL-CHOICES`, `STATELESS`, `LATENCY`, `CONCURRENCY`
+
 ## March 2022
 
  - [demeyere.design/text-calendar/](https://demeyere.design/text-calendar/) (plain text page [here](https://demeyere.design/text-calendar/calendar.php))
