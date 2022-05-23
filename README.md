@@ -7,6 +7,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2022
 
+## May 2022
+
+ - [The Importance of Request Timeouts](https://dev.to/bearer/the-importance-of-request-timeouts-l3n)
+
 ## April 2022
 
  - [Writing new system software](https://borud.no/notes/2021/system-software/) `MECHANICAL-SYMPATHY`, `PERFORMANCE`, `MEMORY`, `ALGORITHMS`, `ARCHITECTURAL-CHOICES`, `STATELESS`, `LATENCY`, `CONCURRENCY`
