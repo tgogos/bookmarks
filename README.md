@@ -9,7 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## May 2022
 
- - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html) 👍👍👍
+ - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html) 👍👍👍 `Glue work vs “gap filling”`
  - [Underestimated costs of microservice architectures](https://speakerdeck.com/trptcolin/underestimated-costs-of-microservice-architectures) by [Colin Jones](https://twitter.com/trptcolin)
  - [Microservices Aren’t Magic: Handling Timeouts](https://8thlight.com/blog/colin-jones/2018/09/18/microservices-arent-magic-handling-timeouts.html) by [Colin Jones](https://twitter.com/trptcolin)
  - [The Importance of Request Timeouts](https://dev.to/bearer/the-importance-of-request-timeouts-l3n)
