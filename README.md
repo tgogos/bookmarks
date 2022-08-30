@@ -7,6 +7,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2022
 
+## Aug 2022
+
+- [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) by [Avery Pennarun (@apenwarr)](https://twitter.com/apenwarr) `ARCHITECTURE`, `ISOLATION`, `MODULARITY`, SECURITY`, `BOUNDARIES`
+
 ## May 2022
 
  - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html) 👍👍👍 `Glue work vs “gap filling”`
