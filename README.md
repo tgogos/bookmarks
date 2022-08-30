@@ -9,7 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## Aug 2022
 
-- [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) by [Avery Pennarun (@apenwarr)](https://twitter.com/apenwarr) `ARCHITECTURE`, `ISOLATION`, `MODULARITY`, SECURITY`, `BOUNDARIES`
+- [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) by [Avery Pennarun (@apenwarr)](https://twitter.com/apenwarr) `ARCHITECTURE`, `ISOLATION`, `MODULARITY`, `SECURITY`, `BOUNDARIES`
 
 ## May 2022
 
