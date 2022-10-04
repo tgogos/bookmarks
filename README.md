@@ -7,6 +7,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2022
 
+## Oct 2022
+
+ - [Unicode Calendar Generator 📅](https://qwerty.dev/calendar-generator/)
+
 ## Aug 2022
 
 - [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) by [Avery Pennarun (@apenwarr)](https://twitter.com/apenwarr) `ARCHITECTURE`, `ISOLATION`, `MODULARITY`, `SECURITY`, `BOUNDARIES`
