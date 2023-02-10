@@ -12,6 +12,16 @@ Links from articles, videos that I find interesting. Some of them are also added
  - [Don't Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/) Down with The Platform, up with Developer Enablement by Sam Newman `PLATFORM-ENGINEERING`, `KUBERNETES`, `CLOUD-NATIVE`, `DEVEX`
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 # 2022
 
 ## Oct 2022
@@ -75,6 +85,18 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 - 🎥 [Better Dialogue Audio: Compression and Normalization](https://www.youtube.com/watch?v=9kal7soRvT0) for use with Adobe Audition `NORMALIZATION`, `COMPRESSION`, `VOICE`
 - [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work) 3 different approaches `RATE()`, `iRATE()`
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 
 # 2020
 
