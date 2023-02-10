@@ -5,6 +5,13 @@
 Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos) & [tefter.io/tgogos/lists](https://tefter.io/tgogos/lists)
 
 
+# 2023
+
+## Feb 2023
+
+ - [Don't Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/) Down with The Platform, up with Developer Enablement by Sam Newman `PLATFORM-ENGINEERING`, `KUBERNETES`, `CLOUD-NATIVE`, `DEVEX`
+
+
 # 2022
 
 ## Oct 2022
