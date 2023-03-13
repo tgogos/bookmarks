@@ -9,6 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## Mar 2023
 
+ - [The Future of Ops Is Platform Engineering](https://www.honeycomb.io/blog/future-ops-platform-engineering)
  - [Thank You Cumulus!](https://githedgehog.com/thank-you-cumulus/)
 
 ## Feb 2023
