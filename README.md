@@ -9,7 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## June 2023
 
- - [Introduction to modern network load balancing and proxying]https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236() By Matt Klein (Envoy Proxy) `Load balancer vs. proxy`, `L4 vs L7`
+ - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) By Matt Klein (Envoy Proxy) `Load balancer vs. proxy`, `L4 vs L7`
 
 ## May 2023
 
