@@ -9,6 +9,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## Sep 2023
 
+ - [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)  👍👍👍 `TCP`, `UDP`, `QUIC`, ` head-of-line (HoL) blocking`, `TLS`
  - [https://nextjs.org/learn/foundations](https://nextjs.org/learn/foundations) 👍👍👍
 
 ## June 2023
