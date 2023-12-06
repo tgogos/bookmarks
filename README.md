@@ -7,6 +7,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2023
 
+## Dec 2023
+
+ - [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) 👍 by OktaDev and [David Neal](https://twitter.com/reverentgeek), also blogpost here: [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+
 ## Sep 2023
 
  - [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)  👍👍👍 `TCP`, `UDP`, `QUIC`, ` head-of-line (HoL) blocking`, `TLS`
