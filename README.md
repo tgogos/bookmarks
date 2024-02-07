@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 #2024
 
+## February 2024
+
+ - [Simple tips for managing any project.](https://swardley.medium.com/simple-tips-for-managing-any-project-b9fc674b93b1) The questions you need to ask. By Simon Wardley [@swardley](https://twitter.com/swardley)
+
 ## January 2024
 
  - [Arrows, please](https://medium.com/@diogo.lucas/arrows-please-b6811f8c6237) 👍 by Diogo Lucas
