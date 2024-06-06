@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 #2024
 
+## June 2024
+
+ - [The API Churn/Security Trade-off](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
+
 ## February 2024
 
  - [Simple tips for managing any project.](https://swardley.medium.com/simple-tips-for-managing-any-project-b9fc674b93b1) The questions you need to ask. By Simon Wardley [@swardley](https://twitter.com/swardley)
