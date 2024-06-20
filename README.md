@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## June 2024
 
+ - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
  - [Generative AI Is Not Going To Build Your Engineering Team For You](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/) 👍👍👍 by Charity Majors
  - [Why I'm not the biggest fan of Single Page Applications](https://www.matuzo.at/blog/2023/single-page-applications-criticism) by Manuel Matuzović
  - [The API Churn/Security Trade-off](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
