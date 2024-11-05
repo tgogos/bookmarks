@@ -6,50 +6,50 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 #2024
 
-## Nov 2024
+## Nov
 
  - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes) from Gitpod blog
 
-## June 2024
+## June
 
  - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
  - [Generative AI Is Not Going To Build Your Engineering Team For You](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/) 👍👍👍 by Charity Majors
  - [Why I'm not the biggest fan of Single Page Applications](https://www.matuzo.at/blog/2023/single-page-applications-criticism) by Manuel Matuzović
  - [The API Churn/Security Trade-off](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
 
-## February 2024
+## February
 
  - [Simple tips for managing any project.](https://swardley.medium.com/simple-tips-for-managing-any-project-b9fc674b93b1) The questions you need to ask. By Simon Wardley [@swardley](https://twitter.com/swardley)
 
-## January 2024
+## January
 
  - [Arrows, please](https://medium.com/@diogo.lucas/arrows-please-b6811f8c6237) 👍 by Diogo Lucas
 
 # 2023
 
-## Dec 2023
+## Dec
 
  - [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) 👍 by OktaDev and [David Neal](https://twitter.com/reverentgeek), also blogpost here: [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 
-## Sep 2023
+## Sep
 
  - [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)  👍👍👍 `TCP`, `UDP`, `QUIC`, ` head-of-line (HoL) blocking`, `TLS`
  - [https://nextjs.org/learn/foundations](https://nextjs.org/learn/foundations) 👍👍👍
 
-## June 2023
+## June
 
  - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) By Matt Klein (Envoy Proxy) `Load balancer vs. proxy`, `L4 vs L7`
 
-## May 2023
+## May
 
  - [How to Build an Awesome Kubernetes Cluster using Proxmox Virtual Environment](https://www.learnlinux.tv/how-to-build-an-awesome-kubernetes-cluster-using-proxmox-virtual-environment/)
 
-## Mar 2023
+## Mar
 
  - [The Future of Ops Is Platform Engineering](https://www.honeycomb.io/blog/future-ops-platform-engineering)
  - [Thank You Cumulus!](https://githedgehog.com/thank-you-cumulus/)
 
-## Feb 2023
+## Feb
 
  - [Don't Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/) Down with The Platform, up with Developer Enablement by Sam Newman `PLATFORM-ENGINEERING`, `KUBERNETES`, `CLOUD-NATIVE`, `DEVEX`
 
@@ -66,31 +66,31 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2022
 
-## Oct 2022
+## Oct
 
  - [Unicode Calendar Generator 📅](https://qwerty.dev/calendar-generator/)
 
-## Aug 2022
+## Aug
 
 - [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/) by [Avery Pennarun (@apenwarr)](https://twitter.com/apenwarr) `ARCHITECTURE`, `ISOLATION`, `MODULARITY`, `SECURITY`, `BOUNDARIES`
 
-## May 2022
+## May
 
  - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html) 👍👍👍 `Glue work vs “gap filling”`
  - [Underestimated costs of microservice architectures](https://speakerdeck.com/trptcolin/underestimated-costs-of-microservice-architectures) by [Colin Jones](https://twitter.com/trptcolin)
  - [Microservices Aren’t Magic: Handling Timeouts](https://8thlight.com/blog/colin-jones/2018/09/18/microservices-arent-magic-handling-timeouts.html) by [Colin Jones](https://twitter.com/trptcolin)
  - [The Importance of Request Timeouts](https://dev.to/bearer/the-importance-of-request-timeouts-l3n)
 
-## April 2022
+## April
 
  - [Writing new system software](https://borud.no/notes/2021/system-software/) `MECHANICAL-SYMPATHY`, `PERFORMANCE`, `MEMORY`, `ALGORITHMS`, `ARCHITECTURAL-CHOICES`, `STATELESS`, `LATENCY`, `CONCURRENCY`
 
-## March 2022
+## March
 
  - [demeyere.design/text-calendar/](https://demeyere.design/text-calendar/) (plain text page [here](https://demeyere.design/text-calendar/calendar.php))
  - [**wgtwo** - Security Whitepaper](https://www.wgtwo.com/docs/technology/security-whitepaper/)
 
-## January 2022
+## January
 
  - [The real cause of large DDoS - IP Spoofing](https://blog.cloudflare.com/the-root-cause-of-large-ddos-ip-spoofing/) `DDoS`, `Hilbert Curves`
  - [Elastic License 2.0 and the Evolution of Open Source Licensing](https://www.coss.community/cossc/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3) `AGPL`, `SSPL`, `STRIP-MINING PROBLEM`, `SOURCE-AVAILABLE`
@@ -113,17 +113,17 @@ Links from articles, videos that I find interesting. Some of them are also added
 
  - [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) `PERF`, `FLAMEGRAPHS`, `IPTABLES`, `BENCHMARK`
 
-## April 2021
+## April
 
  - 🎥 [How Netflix Scales Its API with GraphQL Federation](https://www.youtube.com/watch?v=QrEOvHdH2Cg) `API-AGGREGATION`, `API-GATEWAY`, `GRAPHQL`, `FEDERATION`, `SCALING`, `MONOLITH`, `API-OWNERSHIP`, `CEPARATION OF CONCERNS`
  - [REST and microservices – breaking down the monolith step by asynchronous step](https://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/) `REST`, `API`, `CALLBACK`, `CAP THEOREM`, `FLP THEOREM`
 
-## March 2021
+## March
 
  - [Splitting the ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split) `PING`, `LATENCY`, `ICMP`, `SPING`, `SPLIT-SPING`
 
 
-## January 2021
+## January
 
 - 🎥 [Better Dialogue Audio: Compression and Normalization](https://www.youtube.com/watch?v=9kal7soRvT0) for use with Adobe Audition `NORMALIZATION`, `COMPRESSION`, `VOICE`
 - [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work) 3 different approaches `RATE()`, `iRATE()`
