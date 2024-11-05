@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 #2024
 
+## Nov 2024
+
+ - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes) from Gitpod blog
+
 ## June 2024
 
  - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
