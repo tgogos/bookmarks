@@ -25,6 +25,18 @@ Links from articles, videos that I find interesting. Some of them are also added
 
  - [Arrows, please](https://medium.com/@diogo.lucas/arrows-please-b6811f8c6237) 👍 by Diogo Lucas
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 # 2023
 
 ## Dec
