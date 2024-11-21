@@ -8,6 +8,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## Nov
 
+ - [The UX people](https://www.stavros.io/posts/the-ux-people/) 👍👍 by Stavros Korokithakis
  - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes) from Gitpod blog
 
 ## June
