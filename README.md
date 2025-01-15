@@ -4,6 +4,20 @@
 
 Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos) & [tefter.io/tgogos/lists](https://tefter.io/tgogos/lists)
 
+# 2025
+
+## January
+
+ - 🎥 [Mastering API Testing with FastAPI: Databases, Dependencies, and More!](https://www.youtube.com/watch?v=9gC3Ot0LoUQ)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # 2024
 
 ## Nov
