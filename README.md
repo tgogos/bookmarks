@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2025
 
+## June
+
+ - [Managing Systemd Logs on Linux with Journalctl](https://www.dash0.com/guides/systemd-logs-linux-journalctl)
+
 ## January
 
  - 🎥 [Mastering API Testing with FastAPI: Databases, Dependencies, and More!](https://www.youtube.com/watch?v=9gC3Ot0LoUQ)
