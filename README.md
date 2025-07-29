@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2025
 
+## July
+
+ - [It’s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/) by Jono Alderson 👍👍👍
+
 ## June
 
  - [Managing Systemd Logs on Linux with Journalctl](https://www.dash0.com/guides/systemd-logs-linux-journalctl)
@@ -24,7 +28,7 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2024
 
-## Nov
+## November
 
  - [The UX people](https://www.stavros.io/posts/the-ux-people/) 👍👍 by Stavros Korokithakis
  - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes) from Gitpod blog
