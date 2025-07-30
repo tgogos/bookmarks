@@ -8,7 +8,8 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## July
 
- - [It’s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/) by Jono Alderson 👍👍👍
+ - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html) by Tom MacWright 👍
+ - [It’s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/) by Jono Alderson 👍
 
 ## June
 
