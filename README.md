@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2025
 
+## December
+
+ - [issues with accessing internal storage, folders & files (with windows 10)](https://xdaforums.com/t/issues-with-accessing-internal-storage-folders-files-with-windows-10.4134793/) `MTP`, `ANDROID`, `WEBDAV`
+
 ## July
 
  - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html) by Tom MacWright 👍
