@@ -4,6 +4,12 @@
 
 Links from articles, videos that I find interesting. Some of them are also added here: [tefter.io/tgogos](https://tefter.io/tgogos) & [tefter.io/tgogos/lists](https://tefter.io/tgogos/lists)
 
+# 2026
+
+## June
+
+ - [HTMX in Production 2026: The Anti-React Web Stack for Server-Rendered Apps](https://www.birjob.com/blog/htmx-production-2026)
+
 # 2025
 
 ## December
