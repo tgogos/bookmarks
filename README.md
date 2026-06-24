@@ -8,6 +8,8 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 ## June
 
+ - [Relocating Rigor](https://aicoding.leaflet.pub/3mbrvhyye4k2e) by Chad Fowler 👍
+ - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline) by Charity Majors 👍
  - [HTMX in Production 2026: The Anti-React Web Stack for Server-Rendered Apps](https://www.birjob.com/blog/htmx-production-2026)
 
 # 2025
