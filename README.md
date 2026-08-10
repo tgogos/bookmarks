@@ -6,6 +6,10 @@ Links from articles, videos that I find interesting. Some of them are also added
 
 # 2026
 
+## August
+
+ - [FastAPI + HTMX: The No-Build Full-Stack](https://blakecrosley.com/guides/fastapi-htmx) by Blake Crosley 👍👍👍
+
 ## June
 
  - [Relocating Rigor](https://aicoding.leaflet.pub/3mbrvhyye4k2e) by Chad Fowler 👍
